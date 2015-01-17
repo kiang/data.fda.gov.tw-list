@@ -81,20 +81,24 @@ foreach ($dataset AS $data) {
     $table = substr($info, $pos, strpos($info, '</table>', $pos) - $pos);
     $rows = explode('</tr>', $table);
     $rows[0] = explode('<td>', $rows[0]);
-    $data['columns'] = trim(strip_tags($rows[0][1]));
-    $rows[1] = explode('<td>', $rows[1]);
-    $data['frequency'] = trim(strip_tags($rows[1][1]));
-    $rows[2] = explode('<td>', $rows[2]);
-    $data['updated'] = trim(strip_tags($rows[2][1]));
-    $rows[4] = explode('<td>', $rows[4]);
-    $data['contact'] = trim(strip_tags($rows[4][1]));
-    $rows[5] = explode('<td>', $rows[5]);
-    $data['contact_phone'] = trim(strip_tags($rows[5][1]));
-    if (false === $headersWritten) {
-        fputcsv($listFh, array_keys($data));
-        $headersWritten = true;
+    if (!isset($rows[0][1])) {
+        unlink($infoFile);
+    } else {
+        $data['columns'] = trim(strip_tags($rows[0][1]));
+        $rows[1] = explode('<td>', $rows[1]);
+        $data['frequency'] = trim(strip_tags($rows[1][1]));
+        $rows[2] = explode('<td>', $rows[2]);
+        $data['updated'] = trim(strip_tags($rows[2][1]));
+        $rows[4] = explode('<td>', $rows[4]);
+        $data['contact'] = trim(strip_tags($rows[4][1]));
+        $rows[5] = explode('<td>', $rows[5]);
+        $data['contact_phone'] = trim(strip_tags($rows[5][1]));
+        if (false === $headersWritten) {
+            fputcsv($listFh, array_keys($data));
+            $headersWritten = true;
+        }
+        fputcsv($listFh, $data);
     }
-    fputcsv($listFh, $data);
 }
 
 function cmp($a, $b) {
