@@ -5,6 +5,13 @@ if (!file_exists($tmpPath)) {
     mkdir($tmpPath, 0777, true);
 }
 
+$listCheckSum = array();
+$listFh = fopen(__DIR__ . '/list.csv', 'r');
+while ($listLine = fgetcsv($listFh, 2048)) {
+    $listCheckSum[md5(implode(',', $listLine))] = true;
+}
+fclose($listFh);
+
 $result = array();
 $pageTotal = 1;
 $recordCount = 1;
@@ -66,11 +73,7 @@ usort($dataset, "cmp");
 $listFh = fopen(__DIR__ . '/list.csv', 'w');
 $headersWritten = false;
 foreach ($dataset AS $data) {
-    $infoFile = $tmpPath . '/info_' . md5($data['url']);
-    if (!file_exists($infoFile)) {
-        file_put_contents($infoFile, file_get_contents($data['url']));
-    }
-    $info = file_get_contents($infoFile);
+    $info = file_get_contents($data['url']);
     $pos = strpos($info, '<div class="data_class">');
     $pos = strpos($info, '<span>', $pos) + 6;
     $data['class'] = substr($info, $pos, strpos($info, '</span>', $pos) - $pos);
@@ -98,6 +101,9 @@ foreach ($dataset AS $data) {
             $headersWritten = true;
         }
         fputcsv($listFh, $data);
+        if (!isset($listCheckSum[md5(implode(',', $data))]) && file_exists(__DIR__ . '/dataset/' . $data['id'] . '.csv')) {
+            unlink(__DIR__ . '/dataset/' . $data['id'] . '.csv');
+        }
     }
 }
 
