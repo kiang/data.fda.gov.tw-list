@@ -1,6 +1,5 @@
 id,title,description,url,class,provider,columns,frequency,updated,contact,contact_phone
 1,基因改造食品原料資料集,由專家學者組成基因改造食品審查小組，對基因改造食品原料逐案嚴格審查。藉由本資料集可查詢審核通過之基因改造食品原料。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=1,食品,食品組,國際統一編號、產品類型、種類、品名、轉殖品系、申請者、核准日期、有效期限,每3個月,2014/12/26,吳小姐,02-2787-7335
-2,基因改造食品原料英文資料集,"由專家學者組成基因改造食品審查小組，對基因改造食品原料逐案嚴格審查。藉由本資料集可查詢審核通過之基因改造食品原料(英文版)。 Current Approvals of Genetically Modified foods in Taiwan。",http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=2,食品,食品組,UNIQUE_IDENTIFIER、PRODUCT_TYPE、PRODUCT、NAME、EVENT、APPLICANT、DATE_OF_EXPIRATION、DATE_OF_APPROVAL,每3個月,2014/12/20,吳小姐,02-2787-7335
 3,食品添加物許可證資料集,藉由本資料集可查詢經衛生福利部查驗登記核可之產品資料。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=3,食品,食品組,許可證字號、中文品名、英文品名、有效日期、申請商名稱、發證日期、申請商電話、劑型、用途、簽審文件、製造廠國別、成分、申請商地址、包裝量及單位,每月,2015/06/22,高先生,02-2787-7339
 4,可供食品使用原料彙整一覽表,審核通過之可供食品使用原料彙整一覽表資料集，該一覽表係彙整經評估食用安全性之非傳統供食原料而成，以提供衛生單位管理及食品製售業者對產品自主管理之參考。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=4,食品,食品組,類別、中文名稱、外文名稱、學名、部位、備註、檔案下載、類別說明,不定期,2015/06/11,董小姐,2787-7315
 6,中華民國廚師證書資料集,廚師證書及廚師相關資料資料集，為換發廚師證書，本資料集有當事人之工作地址、技術士證(中餐、西餐；乙級、丙級)。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=6,食品,食品組,工作地址、發證日期起、發證日期迄、職類等級、任職單位,不定期,2015/07/24,許先生,02-2787-7367
