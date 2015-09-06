@@ -53,6 +53,7 @@ id,title,description,url,class,provider,columns,frequency,updated,contact,contac
 55,監視中藥品名單,"依據藥物安全監視管理辦法，新藥上市後須納入藥物安全監視(5年)，藥商須定期交付安全性報告(包含國內外相關安全性資料)。
 本資料集為監視中藥品名單，將可供醫療人員加強警示及通報藥品不良反應。",http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=55,藥品,藥品組,許可證字號、發證日、商品名、許可證持有者、監視終止,不定期,2014/11/24,楊先生,02-2787-7413
 56,藥物非臨床試驗優良操作規範認證通過單位資料集,提供本署藥物非臨床試驗優良操作規範認證通過單位之相關資料給民眾參考。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=56,實驗室認證,風險管理組,項次、發函文號、編號、通過單位、合格範圍或試驗項目、有效期限,每3個月,2015/05/29,藍先生,02-2787-7025
+57,認可濫用藥物尿液檢驗機構名單資料集,提供本署認可濫用藥物尿液檢驗機構之相關資料給民眾參考。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=57,實驗室認證,風險管理組,機構名稱、聯絡人、聯絡人電話、機構地址、認可項目、認可字號,每半年,2015/02/11,張小姐,02-2787-7125
 58,藥物化粧品認證實驗室名單資料集,提供本署藥物化粧品認證實驗室之相關資料給民眾參考。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=58,實驗室認證,風險管理組,認證編號、實驗室名稱、實驗室地址、實驗室電話、實驗室網站、通過日期、檢驗項目、公告資訊名稱、公告資訊連結、認證證書連結,每3個月,2015/04/14,陳小姐,02-2787-7125
 59,食品認證實驗室名單資料集,提供本署食品認證實驗室之相關資料給民眾參考。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=59,實驗室認證,風險管理組,認證編號、實驗室名稱、實驗室地址、實驗室電話、實驗室網站、通過日期、認證項目、公告資訊名稱、公告資訊連結、認證證書連結,每月,2015/06/02,陳先生,02-2787-7126
 60,食品法規條文資料集,食品藥物管理署依職掌權責公告訂定食品相關法律規範，包含法律、標準、辦法、指引、要點、函釋…等。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=60,食品,食品組,類別、法規性質、法規名稱、條文內容、發佈日期、附件下載,不定期,2015/09/01,黃先生/小姐,02-2787-7338
