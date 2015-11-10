@@ -114,7 +114,7 @@ id,title,description,url,class,provider,columns,frequency,updated,contact,contac
 138,各年度輸入重量前10名之中分類產品資料集,本資料集提供各年度輸入重量10名之中分類產品，藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=138,食品,北區管理中心,年度、排名、產品中分類、輸入重量公噸、佔總輸入重量百分比,每一年,2015/03/19,呂小姐,02-2787-8376
 139,各年度輸入食品各中分類產品檢驗結果資料集,本資料集提供各年度輸入食品各中分類產品檢驗結果，藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=139,食品,北區管理中心,年度、產品中分類、查驗批數、檢驗批數、檢驗批數比例、不符合批數、不符合批數比例,每一年,2015/03/30,呂小姐,02-2787-8376
 140,各年度輸入食品各檢驗項目檢驗結果資料集,本資料集提供各年度輸入食品各檢驗項目檢驗結果，藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=140,食品,北區管理中心,年度、檢驗項目、檢驗批數、不合格批數、不合格率一、不合格率二,每一年,2015/03/30,呂小姐,02-2787-8376
-143,管制藥品管理相關法規資料集,食品藥物管理署依職掌權責公告訂定管制藥品管理相關法律規範，包含法律、標準、辦法、指引、要點、函釋…等。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=143,管制藥品,管制藥品組,標題、連結、更新日期,每月,2015/10/23,王先生/小姐,02-2787-7616
+143,管制藥品管理相關法規資料集,食品藥物管理署依職掌權責公告訂定管制藥品管理相關法律規範，包含法律、標準、辦法、指引、要點、函釋…等。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=143,管制藥品,管制藥品組,標題、連結、更新日期,每月,2015/11/03,王先生/小姐,02-2787-7616
 144,衛生福利部食品藥物管理署預算書資料集,衛生福利部食品藥物管理署單位預算、衛生福利部食品藥物管理署附署單位預算。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=144,其他,主計室,標題、發布日期、連結,每一年,2015/09/03,陳先生/小姐,02-2787-7962
 145,衛生福利部食品藥物管理署決算書資料集,衛生福利部食品藥物管理署單位決算、衛生福利部食品藥物管理署附署單位決算。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=145,其他,主計室,標題、發布日期、連結,每一年,2015/10/06,黃先生/小姐,2787-7961
 146,化粧品不合格產品名單資料集,本資料集為「化粧品不合格產品名單」資料，並與署網同步更新，藉此提供學術單位、業者、民眾等使用者進一步使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=146,化粧品,醫療器材及化粧品組,產品品名、批號、廠商名稱、品質檢驗判定結果,不定期,2015/03/25,楊小姐,2787-7591
@@ -123,7 +123,7 @@ id,title,description,url,class,provider,columns,frequency,updated,contact,contac
 149,食米中重金屬含量監測檢驗結果資料集,本資料集提供食米中重金屬含量監測檢驗結果，藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=149,食品,北區管理中心,年度、檢體名稱、抽樣廠商名稱、抽樣廠商地址、產地、重金屬檢測殘留量、處辦情形,每一年,2015/04/01,陳先生/小姐,02-2787-8333
 150,塑膠類食品器具容器包裝宣導資訊資料集,本資料集提供署網的塑膠類食品器具容器包裝宣傳海報，藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=150,食品,食品組,標題、發布日期、連結,每月,2015/11/02,林先生,2787-7365
 151,塑膠類食品器具容器包裝歷年檢驗結果資料集,本資料集提供署網的塑膠類食品容器具包裝歷年檢驗結果，藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=151,食品,食品組,標題、發布日期、連結,每一年,2015/04/01,林先生,2787-7365
-152,醫療器材安全警訊資料集,本資料集提供醫療器材安全警訊資料，藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=152,醫療器材,醫療器材及化粧品組,標題、連結、發布日期,不定期,2015/10/05,林先生/小姐,2787-7572
+152,醫療器材安全警訊資料集,本資料集提供醫療器材安全警訊資料，藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=152,醫療器材,醫療器材及化粧品組,標題、連結、發布日期,不定期,2015/11/05,林先生/小姐,2787-7572
 153,藥物食品分析期刊,本資料集匯整TFDA署網「藥物食品分析期刊」資料，並藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=153,其他,企劃及科技管理組,卷期、標題、作者、連結、發布日期,每3個月,2015/04/20,邱小姐,2787-7226
 154,藥物食品檢驗局調查研究年報,本資料集匯整TFDA署網「藥物食品檢驗局調查研究年報」資料，並藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=154,其他,企劃及科技管理組,分類、標題、連結、更新日期,99年年報名稱改為「食品藥物研究年報」,2015/04/02,連小姐,2787-7222
 155,食品藥物研究年報,本資料集匯整TFDA署網「藥物食品檢驗局調查研究年報」資料，並藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=155,其他,企劃及科技管理組,分類、標題、連結、更新日期,每一年,2015/04/01,連小姐,2787-7222
