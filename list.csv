@@ -43,7 +43,7 @@ id,title,description,url,class,provider,columns,frequency,updated,contact,contac
 47,各年度專門職業別領有使用執照統計資料集,近10年各專門職業別領有管制藥品使用執照之現況統計。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=47,管制藥品,管制藥品組,年度、醫師、牙醫師、獸醫師、獸醫佐、合計,每一年,2014/09/19,王先生/小姐,02-2787-7616
 48,藥物濫用者常見之術語資料集,本資料集提供藥物濫用者常用之術語，藉此提供醫師、藥師、醫護人員、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=48,管制藥品,管制藥品組,術語或黑話、涵義,不定期,2014/11/04,蕭先生/小姐,02-2787-7645
 49,藥物濫用諮詢及輔導機構資料集,本資料集提供藥物濫用諮詢及輔導之機構名稱、地址及電話給有需要的民眾。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=49,管制藥品,管制藥品組,機構名稱、地址、電話,不定期,2014/11/19,蕭先生/小姐,02-2787-7645
-50,常見濫用管制藥品資料集,本資料集提供常見濫用管制藥品之相關資訊供民眾參考。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=50,管制藥品,管制藥品組,類別、藥物名稱、俗名、分級、醫療用途、濫用方式、說明、圖片、圖片文字,不定期,2015/12/20,廖先生/小姐,02-2787-7644
+50,常見濫用管制藥品資料集,本資料集提供常見濫用管制藥品之相關資訊供民眾參考。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=50,管制藥品,管制藥品組,類別、藥物名稱、俗名、分級、醫療用途、濫用方式、說明、圖片、圖片文字,不定期,2015/12/20,王小姐,2787-7647
 51,銷售管制藥品一覽表,本資料集提供食品藥物管理署管制藥品工廠所販賣之管制藥品的銷售價格，藉此提供醫師、藥師、醫護人員、業者等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=51,管制藥品,製藥工廠,管制級別、藥品名稱、藥品英文名稱、主要成分、適應症、有效期間、售價單位、售價單價、包裝規格、健保藥品代碼、分裝、備註,不定期,2015/05/21,吳小姐,02-2787-8036
 52,不符合食品資訊資料集,本資料集係提供進口食品及相關產品之不符合資訊。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=52,食品,北區管理中心,產地、主旨、原因、進口商名稱、進口商地址、貨品分類號列、不合格原因暨檢出量詳細說明、法規限量標準、製造廠或出口商名稱、製造商代碼、牌名、重量、處置情形、發布日期、報驗受理日期、附圖,不定期,2015/12/14,楊小姐,02-2787-8373
 53,藥品安全資訊風險溝通資料,"本署針對藥品安全警訊，必要時會發布藥品安全資訊風險溝通表，以提醒醫療人員及民眾注意。
@@ -93,7 +93,7 @@ id,title,description,url,class,provider,columns,frequency,updated,contact,contac
 117,食品中毒案件攝食場所案件數統計,本資料集提供民國70年以後「食品中毒案件攝食場所案件數統計」，以提供一般民眾、業者、學術機構等使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=117,食品,食品組,年度、自宅、供膳之營業場所、學校、辦公場所、醫療場所、運輸工具、部隊、野外、攤販、外燴、監獄、其他、總計,每一年,2014/12/22,黃小姐,2787-7392
 118,食品中毒案件攝食場所患者數統計,本資料集提供民國70年以後「食品中毒案件攝食場所患者數統計」，以提供一般民眾、業者、學術機構等使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=118,食品,食品組,年度、自宅、供膳之營業場所、學校、辦公場所、醫療場所、運輸工具、部隊、野外、攤販、外燴、監獄、其他、總計,每一年,2014/12/22,黃小姐,2787-7392
 119,食品中毒案件食品被污染或處置錯誤場所案件數統計,本資料集提供民國79年以後「食品中毒案件食品被污染或處置錯誤場所案件數統計」，以提供一般民眾、業者、學術機構等使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=119,食品,食品組,年度、自宅、供膳之營業場所、學校、辦公場所、醫療場所、食品工廠、攤販、販賣地點、部隊、原料食品採集場所、野外、外燴、監獄、其他、不明場所、總計,每一年,2014/12/22,黃小姐,2787-7392
-120,本署新聞公告資料集,本資料集提供本署新聞公告資料，提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=120,其他,資訊室,標題、內容、附檔連結、發布日期,每天,2015/12/25,陳先生,02-2787-7895
+120,本署新聞公告資料集,本資料集提供本署新聞公告資料，提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=120,其他,資訊室,標題、內容、附檔連結、發布日期,每天,2015/12/28,陳先生,02-2787-7895
 121,公告檢驗方法資料集,本資料集提供公告檢驗方法資料，藉此提供學術單位、實驗機構、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=121,研究檢驗,研究檢驗組,檢驗方法編碼、標題、發布日期、連結,不定期,2015/10/29,徐小姐,02-2787-7718
 122,建議檢驗方法資料集,本資料集提供建議檢驗方法資料，藉此提供學術單位、實驗機構、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=122,研究檢驗,研究檢驗組,檢驗方法編碼、標題、發布日期、連結,不定期,2015/12/16,徐小姐,02-2787-7718
 123,食品添加物規格檢驗方法資料集,本資料集提供食品添加物規格檢驗方法資料，藉此提供學術單位、實驗機構、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=123,研究檢驗,研究檢驗組,代碼、標題、發布日期、連結,不定期,2015/09/18,徐小姐,02-2787-7718
