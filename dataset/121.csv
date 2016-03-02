@@ -73,6 +73,7 @@ MOHWV0041.02	食品中動物用藥殘留量檢驗方法－乙型受體素類多�
 MOHWV0042.01	食品中動物用藥殘留量檢驗方法－胺基醣苷類抗生素之檢驗(一)(自103年8月1日生效)【肌肉、內臟、蛋】	2014-05-15	http://www.fda.gov.tw/TC/siteListContent.aspx?sid=103&id=9202&chk=10A43F12-900A-4DFF-ADE3-1BA165FC06C9	
 MOHWV0043.00	食品中動物用藥殘留量檢驗方法－氯黴素類抗生素之檢驗(自103年7月1日生效)	2014-06-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=9265&chk=A978A079-61FC-47F7-B121-E729CD9D27B8	
 MOHWV0044.01	食品中動物用藥殘留量檢驗方法－胺基醣苷類抗生素之檢驗(二)【蜂蜜牛奶】	2014-08-12	http://www.fda.gov.tw/TC/siteListContent.aspx?sid=103&id=9495&chk=A082BD9E-FA1C-42B9-9F82-52D97511E6D9	
+MOHWV0045.00	食品中動物用藥殘留量檢驗方法－氟尼辛及托芬那酸之檢驗	2016-03-01	http://www.fda.gov.tw/TC/siteListContent.aspx?sid=103&id=17904&chk=a8e0839e-cdc4-4888-b83d-0b5e8fe97e50&param=pn%3d1%26sid%3d103	
 MOHWH0001.02	食用菇類中重金屬檢驗方法－鎘之檢驗 	2013-09-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1657&chk=C4D829A3-E156-44E9-900D-2985981C52D5	
 MOHWH0002.02	食用菇類中重金屬檢驗方法－鉛之檢驗 	2013-09-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1658&chk=CF702DA7-88A4-42EF-962B-986A77385853	
 MOHWH0003.01	食品中甲基汞之檢驗方法	2013-09-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1668&chk=4C891A60-4D06-4D32-8605-8B8E86E8C48E	
@@ -194,7 +195,7 @@ MOHWU0019.02	食品器具、容器、包裝檢驗方法－聚碳酸酯塑膠類�
 MOHWU0020.01	免洗筷中聯苯之檢驗方法 	2013-09-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1684&chk=007A8E56-10B1-47A1-BFD6-3FAD6383663C	
 MOHWU0021.01	免洗筷中過氧化氫之檢驗方法 	2013-09-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1685&chk=8331D58E-DB8B-4413-B1D0-10F72B83F16F	
 MOHWU0022.02	免洗筷中二氧化硫之檢驗方法	2013-09-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=6320&chk=696F3093-FDA1-4CAB-9B53-0BFE8F6B1BD5	
-MOHWU0023.00	塑膠類食品器具容器包裝之耐熱溫度標示符合性試驗方法	2013-10-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=8186&chk=4208504E-8C37-4AD4-9DF2-133A1CBB72BB	
+MOHWU0023.01	塑膠類食品器具容器包裝之耐熱溫度標示符合性試驗方法	2016-03-01	http://www.fda.gov.tw/TC/siteListContent.aspx?sid=103&id=17905&chk=22bed516-3ba8-497c-9bf3-167a2c9b1d90&param=pn%3d1%26sid%3d103	
 MOHWU0024.01	食品器具、容器、包裝檢驗方法－聚偏二氯乙烯塑膠類之檢驗	2013-10-09	http://www.fda.gov.tw/TC/siteListContent.aspx?sid=103&id=8206&chk=8E6A9852-5AEF-47C8-BD3D-AEC9BE5A2AE5	
 MOHWU0025.01	食品器具、容器、包裝檢驗方法－金屬罐之檢驗	2013-10-11	http://www.fda.gov.tw/TC/siteListContent.aspx?sid=103&id=8215&chk=3642CB59-1719-4BBC-BAEB-1D02380CBCD9	
 MOHWU0026.01	食品器具、容器、包裝檢驗方法－聚氯乙烯塑膠類之檢驗	2013-10-31	http://www.fda.gov.tw/TC/siteListContent.aspx?sid=103&id=8317&chk=3D52F909-A7A4-4312-9466-D554A8BD2967	
@@ -223,6 +224,7 @@ MOHWA0017.01	食品中過氧化氫之檢驗方法	2013-09-06	http://www.fda.gov.
 MOHWA0018.01	食品中亞硝酸鹽之檢驗方法	2013-09-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=6968&chk=39C5AD9A-AE8B-475D-B125-AE9EFC2AD96D	
 MOHWA0019.03	食品中甜味劑之檢驗方法－醋磺內酯鉀、糖精、甘精及環己基(代)磺醯胺酸之檢驗	2013-09-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=7416&chk=10FCC751-1326-4083-8BCE-6B8952E5A22D	
 MOHWA0020.01	食品中防腐劑之檢驗方法	2013-10-15	http://www.fda.gov.tw/TC/siteListContent.aspx?sid=103&id=8230&chk=7F4491B0-06E2-4AC0-9896-55D631E04D3C	
+MOHWA0021.00	食品中抗氧化劑之檢驗方法－多重分析方法(自105年5月1日生效)	2016-02-26	http://www.fda.gov.tw/TC/siteListContent.aspx?sid=103&id=17896&chk=50fe40d4-0c4d-427e-9e04-eb4bcfc7cbc1&param=pn%3d1%26sid%3d103	
 MOHWO0001.00	醬油類中3-單氯丙二醇之檢驗方法	2013-08-09	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=8070&chk=B44E44A0-6E14-4EC1-9BAA-F8213AF4F106	
 MOHWO0002.01	包裝飲用水及盛裝飲用水中溴酸鹽之檢驗方法 	2013-09-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1651&chk=B9097D49-FDC3-416F-8681-5AEAE0E03962	
 MOHWO0003.01	食品中戴奧辛及多氯聯苯殘留量檢驗方法	2013-09-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2032&chk=F7FCA327-73DF-4505-A28A-EE8FD9FC1784	
