@@ -5,6 +5,7 @@ TFDAV0001.00	食品中動物用藥殘留量檢驗方法－乙型受體素類多�
 TFDAV0002.00	食品中動物用藥殘留量檢驗方法－抗生素及其代謝物多重殘留分析(二)	2013-06-20	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=7935&chk=BBF5790C-07F3-4E5D-9D8E-8113A6EFA994	
 TFDAV0004.00	食品中動物用藥殘留量檢驗方法－安保寧之檢驗	2015-05-18	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=13385&chk=26a33fb1-7632-4879-b868-3cb9ccac9662	
 TFDAV0005.00	食品中動物用藥殘留量檢驗方法－丁香酚及三卡因甲磺酸之檢驗	2015-06-10	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=13474&chk=a0dd6cb5-3cf1-41df-a4fe-ed944d2092b7	
+TFDAV0006.00	蜂蜜中動物用藥殘留量檢驗方法－硝基呋喃代謝物之檢驗	2016-04-14	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=18114&chk=98aff48e-4767-4cbc-bc7c-3b604a16659a	
 TFDAH0001.00	食用油中無機砷之檢驗方法	2010-06-29	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=3055&chk=EB2035C2-7FD4-4726-9090-AD7E3C54D029	
 TFDAH0002.02	水產品中無機砷之檢驗方法	2015-06-25	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=13509&chk=85ac5ed9-d89b-44c2-86d0-1b59751c7c04	
 TFDAH0004.00	食品中六價鉻之檢驗方法	2016-02-25	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17903&chk=ed7262b1-3697-41e2-8823-d7c32f566041	
@@ -85,7 +86,7 @@ TFDAA0046.00	膠囊與錠狀食品中牛磺酸之檢驗方法	2015-12-12	http://
 TFDAA0047.00	膠囊與錠狀食品中綠原酸類之檢驗方法	2015-12-12	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17521&chk=fc009a59-26ff-434a-b4f6-c550ec009904	
 TFDAA0048.00	食品中甲醛之檢驗方法(乙醯(代)丙酮法)	2015-12-12	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17522&chk=4089acab-115b-4619-b31c-dde7bf61e5fb	
 TFDAA0049.00	食品中碘含量之檢驗方法	2016-02-25	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17902&chk=42a30c70-0671-4f3e-a9a7-e2b59f94d34b	
-TFDAA0051.00	膠囊錠狀食品中葉黃素及玉米黃素之檢驗方法	2016-03-03	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17929&chk=7ec0dd46-3c7f-4409-8b4e-1808ebd126dd	
+TFDAA0051.01	膠囊錠狀食品中葉黃素及玉米黃素之檢驗方法	2016-04-14	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=18113&chk=5a529b28-8328-4c60-b2b6-876d46f185ac	
 TFDAG0001.00	基因改造食品檢驗方法－玉米轉殖品項BT11 (UI: SYN-BTØ11-1)之構造特異性定性及定量檢驗	2011-03-21	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=4600&chk=0816FE45-490D-41FF-8495-ECAB2E82BE9D	
 TFDAG0002.00	基因改造食品檢驗方法－玉米轉殖品項EVENT176 (UI SYN-EV176-9)之構造特異性定性及定量檢驗	2011-03-21	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=4601&chk=E7C327FE-4D22-4295-ADA4-E5319400B785	
 TFDAG0003.00	基因改造食品檢驗方法－玉米轉殖品項GA21 (UI: MON-ØØØ21-9)之構造特異性定性及定量檢驗	2011-03-21	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=4602&chk=4C134812-149C-486C-BF4F-93C853ED24D1	
@@ -151,7 +152,6 @@ TFDAT0001.00	食品中海洋生物毒素之檢驗方法－下痢性貝毒之檢�
 	化粧品中水楊酸成分鑑別及含量測定方法	2009-06-19	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1633&chk=37BC92E0-17D5-4063-9BCB-8A41151E9831	
 	燙髮劑中硫醇基乙酸及半胱胺酸之鑑別及含量測定方法	2009-06-19	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1635&chk=167BF1F4-5BE5-4306-A40E-67305D33C4E8	
 	化粧品中鉛、鎘及砷鑑別及含量測定方法	2009-06-19	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1634&chk=E5C3EC3D-EF0F-4ECB-91BD-0D7A54D92DD0	
-	化粧品中氯化苄二甲烴銨及葡萄糖酸洛赫西定之鑑別及含量測定方法	2009-06-19	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1636&chk=246BE5BD-F212-403F-95C6-66E8981BBA9B	
 	染髮劑中含苯二胺與酚類成分鑑別及含量測定方法	2009-06-19	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1637&chk=C5C7FED0-98D1-4B88-8C45-625124FAFFAC	
 	化粧品中六氯酚、硫氯酚及雙氯酚之鑑別及含量測定	2010-05-03	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2426&chk=452C8FCC-A6ED-46F5-99B8-3C4B2CA0E60E	
 	化粧品中汞鑑別及含量測定方法	2010-06-03	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2563&chk=921751A1-21D0-4701-A1B0-245D0BB9D1EC	
@@ -198,3 +198,5 @@ TFDAT0001.00	食品中海洋生物毒素之檢驗方法－下痢性貝毒之檢�
 	化粧品中二氧化鈦奈米微粒之粒徑量測方法	2016-01-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17750&chk=d51e5f87-b43c-4a13-a1af-0ccda0de0c04	
 	化粧品中染髮劑之檢驗方法(二)	2016-01-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17751&chk=6b4801eb-2327-4fa3-b3a4-72c0d6d3edb1	
 	化粧品中硼酸之檢驗方法	2016-01-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17752&chk=a160ca04-7e6e-4c72-ab85-97c77365423c	
+	化粧品中氯化芐二甲烴銨之檢驗方法	2016-04-14	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=18115&chk=3e2711a4-eddf-48ad-8911-d80a10fd5b57	
+	化粧品中染髮劑之檢驗方法【第1次修正】	2016-04-14	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=18116&chk=4a6b4463-6b83-4fbe-b2ab-c17c3e8a1f22	
