@@ -1,12 +1,15 @@
 ﻿DAS-Ø15Ø7-1xMON-ØØ81Ø-6xSYN-IR162-4xMON-ØØ6Ø3-6	Stacked trait	Corn	TC1507 x MON810 x MIR162 x NK603 Maize	TC1507xMON810xMIR162xNK603	DuPont Taiwan	2018-05-02	2013-05-02	
 SYN-IR162-4	Single trait	Corn	Insect-resistant Corn	MIR162	Syngenta Taiwan Ltd.	2019-04-20	2009-04-20	
 DP-3Ø5423-1	Single trait	Soybean	High Oleic Soybean	DP-305423-1	DuPont Taiwan	2020-07-23	2010-07-23	
-MON-877Ø1-2	Single trait	Soybean	Insect-Protected Soybean	MON87701	香港商孟山都遠東股份有限公司台灣分公司	2016-07-06	2011-07-06	
-MON-89Ø34-3xDAS-Ø15Ø7-1xMON-ØØ6Ø3-6	Stacked trait	Corn	MON89034xTC1507xNK603	MON89034xTC1507xNK603	香港商孟山都遠東股份有限公司台灣分公司	2016-08-22	2011-08-22	
+MON-877Ø1-2	Single trait	Soybean	Insect-Protected Soybean	MON87701	香港商孟山都遠東股份有限公司台灣分公司	2021-07-06	2011-07-06	
+MON-89Ø34-3xDAS-Ø15Ø7-1xMON-ØØ6Ø3-6	Stacked trait	Corn	MON89034xTC1507xNK603 Corn	MON89034xTC1507xNK603	Dow AgroSciences Taiwan Ltd.	2021-08-22	2011-08-22	
+DAS-81419-2xDAS-444Ø6-6	Stacked trait	Soybean	Combined Trait Soybean	DAS-81419-2xDAS-44406-6	Dow AgroSciences Taiwan Ltd.	2021-07-12	2016-07-12	
 ACS-BNØØ5-8xACS-BNØØ3-6xMON-ØØØ73-7	Stacked trait	Canola	MS8 x RF3 x GT73 Canola	MS8xRF3xGT73	Bayer Taiwan Ltd.	2021-04-22	2016-04-22	
+MON-87427-7xMON-89Ø34-3xSYN-IR162-4xMON-ØØ6Ø3-6	Stacked trait	Corn	MON87427 x MON89034 x MIR162 x NK603 Corn	MON87427xMON89034xMIR162xNK603	香港商孟山都遠東股份有限公司台灣分公司	2021-05-05	2016-05-05	
 DAS-Ø15Ø7-1xMON-ØØ81Ø-6	Stacked trait	Corn	DAS-Ø15Ø7-1 x MON-ØØ81Ø-6 Maize	TC1507xMON810	DuPont Taiwan	2019-11-20	2014-11-20	
 MON-ØØØ21-9xACS-ZMØØ3-2	Stacked trait	Corn	GA21 x T25 Maize	GA21xT25	Syngenta Taiwan Ltd.	2019-11-21	2014-11-21	
 MON-ØØØ21-9	Single trait	Corn	Glyphosate tolerant Corn	GA21	Syngenta Taiwan Ltd.	2018-07-23	2008-07-23	
+DP-Ø73496-4	Single trait	Canola	73496 Canola	73496	DuPont Taiwan	2021-05-13	2016-05-13	
 DAS-Ø15Ø7-1xMON-ØØ81Ø-6xSYN-IR6Ø4-5xMON-ØØ6Ø3-6	Stacked trait	Corn	DAS-Ø15Ø7-1xMON-ØØ81Ø-6x SYN-IR6Ø4-5xMON-ØØ6Ø3-6 Maize	TC1507xMON810xMIR604xNK603	DuPont Taiwan	2019-09-02	2014-09-02	
 DAS-444Ø6-6	Single trait	Soybean	Herbicide Tolerant Soybean	DAS-44406-6	Dow AgroSciences Taiwan Ltd.	2019-09-04	2014-09-04	
 BCS-GHØØ2-5xACS-GHØØ1-3	Stacked trait	Cotton	Stacked Genetically Modified Cotton	GHB614xLLCotton25	Bayer Taiwan Ltd.	2020-12-14	2015-12-14	
@@ -18,16 +21,17 @@ DAS-21Ø23-5	Single trait	Cotton	Insect Resistant 3006-210-23 Cotton	3006-210-23
 DAS-24236-5	Single trait	Cotton	Insect Resistant 281-24-236 Cotton	281-24-236	Dow AgroSciences Taiwan Ltd.	2020-11-12	2015-11-12	
 DAS-24236-5xDAS-21Ø23-5	Stacked trait	Cotton	Combined Trait Cotton	281-24-236x3006-210-23	Dow AgroSciences Taiwan Ltd.	2020-12-14	2015-12-14	
 SYN-IR1Ø2-7xMON-15985-7xMON-88913-8	Stacked trait	Cotton	COT102 x MON15985 x MON88913 Cotton	COT102xMON15985xMON88913	香港商孟山都遠東股份有限公司台灣分公司	2021-01-21	2016-01-21	
+SYN-BTØ11-1xDAS-Ø15Ø7-1xMON-ØØØ21-9	Stacked trait	Corn	Bt11xTC1507xGA21 Maize	Bt11xTC1507xGA21	Syngenta Taiwan Ltd.	2021-06-08	2016-06-08	
 BCS-GHØØ2-5xBCS-GHØØ4-7xBCS-GHØØ5-8xSYN-IR1Ø2-7	Stacked trait	Cotton	Stacked Genetically Modified Cotton	GHB614xT304-40xGHB119xCOT102	Bayer Taiwan Ltd.	2021-02-05	2016-02-05	
 MON-877Ø8-9xMON-89788-1	Stacked trait	Soybean	MON87708 × MON89788 Soybean	MON87708xMON89788	香港商孟山都遠東股份有限公司台灣分公司	2019-09-24	2014-09-24	
 DAS-4Ø278-9	Single trait	Corn	DAS-40278-9 Corn	DAS-40278-9	Dow AgroSciences Taiwan Ltd.	2016-11-07	2011-11-07	
 MON-89Ø34-3	Single trait	Corn	Insect-resistant Corn	MON89034	香港商孟山都遠東股份有限公司台灣分公司	2018-07-25	2008-07-25	
-SYN-E3272-5xSYN-BTØ11-1xSYN-IR6Ø4-5xMON-ØØØ21-9	Stacked trait	Corn	3272xBt11xMIR604xGA21 Maize	3272xBt11xMIR604xGA21	Syngenta Taiwan Ltd.	2016-09-05	2011-09-05	
+SYN-E3272-5xSYN-BTØ11-1xSYN-IR6Ø4-5xMON-ØØØ21-9	Stacked trait	Corn	3272xBt11xMIR604xGA21 Maize	3272xBt11xMIR604xGA21	Syngenta Taiwan Ltd.	2021-09-05	2011-09-05	
 ACS-BNØØ3-6	Single trait	Canola	Herbicide Tolerant Genetically Modified Canola	RF3	Bayer Taiwan Ltd.	2020-03-17	2015-03-17	
 SYN-IR1Ø2-7	Single trait	Cotton	Insect-resistant Cotton	COT102	Syngenta Taiwan Ltd.	2020-01-20	2015-01-20	
 MON-87411-9	Single trait	Corn	Corn Rootworm Protected and Glyphosate Tolerant Maize	MON87411	香港商孟山都遠東股份有限公司台灣分公司	2020-08-17	2015-08-17	
 ACS-GHØØ1-3	Single trait	Cotton	Herbicide Tolerant Genetically Modified Cotton	LLCotton25	Bayer Taiwan Ltd.	2020-04-19	2015-04-19	
-SYN-BTØ11-1xSYN-IR162-4xSYN-IR6Ø4-5xMON-ØØØ21-9	Stacked trait	Corn	Bt11xMIR162xMIR604xGA21 Maize	Bt11xMIR162xMIR604xGA21	Syngenta Taiwan Ltd.	2016-05-30	2011-05-30	
+SYN-BTØ11-1xSYN-IR162-4xSYN-IR6Ø4-5xMON-ØØØ21-9	Stacked trait	Corn	Bt11xMIR162xMIR604xGA21 Maize	Bt11xMIR162xMIR604xGA21	Syngenta Taiwan Ltd.	2021-05-30	2011-05-30	
 MON-88913-8	Single trait	Cotton	Roundup Ready Flex Cotton	MON88913	香港商孟山都遠東股份有限公司台灣分公司	2020-05-25	2015-05-25	
 SYN-E3272-5xSYN-BTØ11-1xSYN-IR6Ø4-5xDAS-Ø15Ø7-1xSYN-Ø53Ø7-1xMON-ØØØ21-9	Stacked trait	Corn	3272 × Bt11 × MIR604 × TC1507 × 5307 × GA21 Maize	3272xBt11xMIR604xTC1507x5307xGA21	Syngenta Taiwan Ltd.	2020-05-05	2015-05-05	
 MON-89Ø34-3xDAS-Ø15Ø7-1xMON-ØØ6Ø3-6xDAS-4Ø278-9	Stacked trait	Corn	Combined Trait Corn	MON89034xTC1507xNK603xDAS-40278-9	Dow AgroSciences Taiwan Ltd.	2020-01-20	2015-01-20	
@@ -41,6 +45,7 @@ BCS-GHØØ2-5	Single trait	Cotton	Herbicide Tolerant Genetically Modified Cotton
 BCS-GHØØ5-8	Single trait	Cotton	Insect Resistant and Herbicide Tolerant Genetically Modified Cotton	GHB119	Bayer Taiwan Ltd.	2020-04-19	2015-04-19	
 BCS-GHØØ2-5xACS-GHØØ1-3xMON-15985-7	Stacked trait	Cotton	Stacked Genetically Modified Cotton	GHB614xLLCotton25xMON15985	Bayer Taiwan Ltd.	2020-12-14	2015-12-14	
 DAS-68416-4xMON-89788-1	Stacked trait	Soybean	Combined Trait Soybean	DAS-68416-4xMON89788	Dow AgroSciences Taiwan Ltd.	2020-02-26	2015-02-26	
+MST-FGØ72-2xACS-GMØØ6-4	Stacked trait	Soybean	Stacked Genetically Modified Soybean	FG72xA5547-127	Bayer Taiwan Ltd.	2021-05-13	2016-05-13	
 DAS-81419-2	Single trait	Soybean	Insect Resistant Soybean	DAS-81419-2	Dow AgroSciences Taiwan Ltd.	2020-05-05	2015-05-05	
 DAS-Ø15Ø7-1xMON-ØØ81Ø-6xSYN-IR162-4	Stacked trait	Corn	TC1507xMON810xMIR162 Maize	TC1507xMON810xMIR162	DuPont Taiwan	2020-01-20	2015-01-20	
 SYN-BTØ11-1xSYN-IR162-4	Stacked trait	Corn	Bt11 x MIR162 Maize	Bt11xMIR162	Syngenta Taiwan Ltd.	2020-03-04	2015-03-04	
@@ -77,7 +82,7 @@ MON-8746Ø-4xMON-ØØ6Ø3-6	Stacked trait	Corn	MON87460xNK603 Corn	MON87460xNK60
 SYN-EV176-9	Single trait	Corn	Insect-resistant & Glufosinate tolerant Corn	Event176	Syngenta Taiwan Ltd.	2018-06-02	2004-06-02	
 SYN-BTØ11-1xSYN-IR6Ø4-5xDAS-Ø15Ø7-1xSYN-Ø53Ø7-1xMON-ØØØ21-9	Stacked trait	Corn	Bt11×MIR604×TC1507×5307×GA21 Maize	Bt11xMIR604xTC1507x5307xGA21	Syngenta Taiwan Ltd.	2018-09-10	2013-09-10	
 SYN-BTØ11-1xSYN-IR6Ø4-5xMON-ØØØ21-9	Stacked trait	Corn	Bt11 x MIR604 x GA21 Maize	Bt11xMIR604xGA21	Syngenta Taiwan Ltd.	2019-08-03	2009-08-03	
-DAS-Ø15Ø7-1xDAS-59122-7xMON-ØØ81Ø-6xMON-ØØ6Ø3-6	Stacked trait	Corn	TC1507xDAS-59122-7xMON810xNK603 Maize	TC1507xDAS-59122-7xMON810xNK603	DuPont Taiwan	2016-05-30	2011-05-30	
+DAS-Ø15Ø7-1xDAS-59122-7xMON-ØØ81Ø-6xMON-ØØ6Ø3-6	Stacked trait	Corn	TC1507xDAS-59122-7xMON810xNK603 Maize	TC1507xDAS-59122-7xMON810xNK603	DuPont Taiwan	2021-05-30	2011-05-30	
 KM-ØØØH71-4	Single trait	Sugar Beet	Roundup Ready Sugar Beet	H7-1	香港商孟山都遠東股份有限公司台灣分公司	2020-12-14	2015-12-14	
 MON-87769-7	Single trait	Soybean	Stearidonic Acid-Producing Soybean	MON87769	香港商孟山都遠東股份有限公司台灣分公司	2018-12-16	2013-12-16	
 DP-ØØ4114-3	Single trait	Corn	Insect resistant and herbicide tolerant maize event DP-ØØ4114-3	4114	DuPont Taiwan	2019-06-27	2014-06-27	
@@ -86,7 +91,7 @@ SYN-IR6Ø4-5	Single trait	Corn	Insect-resistant Corn	MIR604	Syngenta Taiwan Ltd.
 MON-Ø4Ø32-6	Single trait	Soybean	Roundup Ready Soybean	40-3-2	香港商孟山都遠東股份有限公司台灣分公司	2017-07-22	2002-07-22	
 DAS-59122-7	Single trait	Corn	Insect resistant and Glufosinate tolerant Maize	DAS-59122-7	DuPont Taiwan	2020-12-21	2005-12-21	
 MON-88Ø17-3	Single trait	Corn	YieldGard Rootworm/ Roundup Ready Corn	MON88017	香港商孟山都遠東股份有限公司台灣分公司	2021-03-20	2006-03-20	
-DAS-Ø15Ø7-1xMON-ØØ81Ø-6xMON-ØØ6Ø3-6	Stacked trait	Corn	TC1507xMON810xNK603 Maize	TC1507xMON810xNK603	DuPont Taiwan	2016-05-30	2011-05-30	
+DAS-Ø15Ø7-1xMON-ØØ81Ø-6xMON-ØØ6Ø3-6	Stacked trait	Corn	TC1507xMON810xNK603 Maize	TC1507xMON810xNK603	DuPont Taiwan	2021-05-30	2011-05-30	
 MON-ØØ81Ø-6	Single trait	Corn	YieldGard Corn	MON810	香港商孟山都遠東股份有限公司台灣分公司	2017-10-15	2002-10-15	
 DAS-Ø15Ø7-1	Single trait	Corn	Insect-resistant & Glufosinate tolerant Corn	TC1507	DuPont Taiwan	2018-11-17	2003-11-17	
 MON-ØØ81Ø-6xMON-ØØ6Ø3-6	Stacked trait	Corn	YieldGard x Roundup Ready Corn 2	MON810xNK603	香港商孟山都遠東股份有限公司台灣分公司	2019-02-17	2009-02-17	
@@ -100,10 +105,10 @@ SYN-BTØ11-1xSYN-IR6Ø4-5	Stacked trait	Corn	Bt11 x MIR604 Maize	Bt11xMIR604	Syn
 SYN-BTØ11-1xMON-ØØØ21-9	Stacked trait	Corn	Bt11 x GA21 Maize	Bt11xGA21	Syngenta Taiwan Ltd.	2019-08-03	2009-08-03	
 DAS-59122-7xMON-ØØ6Ø3-6	Stacked trait	Corn	DAS-59122-7 x NK603 Maize	DAS-59122-7xNK603	DuPont Taiwan	2021-01-03	2011-01-03	
 MON-89Ø34-3xDAS-Ø15Ø7-1xMON-88Ø17-3xDAS-59122-7	Stacked trait	Corn	MON89034 x TC1507 x MON88017 x DAS-59122-7 Corn	MON89034xTC1507xMON88017xDAS-59122-7	香港商孟山都遠東股份有限公司台灣分公司	2019-10-12	2009-10-12	
-MON-ØØ6Ø3-6xACS-ZMØØ3-2	Stacked trait	Corn	Glyphosate-Tolerant and Glufosinate-Tolerant Corn	NK603xT25	香港商孟山都遠東股份有限公司台灣分公司	2016-05-30	2011-05-30	
+MON-ØØ6Ø3-6xACS-ZMØØ3-2	Stacked trait	Corn	Glyphosate-Tolerant and Glufosinate-Tolerant Corn	NK603xT25	香港商孟山都遠東股份有限公司台灣分公司	2021-05-30	2011-05-30	
 SYN-IR6Ø4-5xMON-ØØØ21-9	Stacked trait	Corn	MIR604 x GA21 Maize	MIR604xGA21	Syngenta Taiwan Ltd.	2019-08-03	2009-08-03	
 DAS-Ø15Ø7-1xDAS-59122-7xMON-ØØ6Ø3-6	Stacked trait	Corn	TC1507xDAS-59122-7xNK603 Maize	TC1507xDAS-59122-7xNK603	DuPont Taiwan	2019-12-15	2009-12-15	
-SYN-BTØ11-1xSYN-IR162-4xMON-ØØØ21-9	Stacked trait	Corn	Bt11xMIR162xGA21 Maize	Bt11xMIR162xGA21	Syngenta Taiwan Ltd.	2016-05-30	2011-05-30	
+SYN-BTØ11-1xSYN-IR162-4xMON-ØØØ21-9	Stacked trait	Corn	Bt11xMIR162xGA21 Maize	Bt11xMIR162xGA21	Syngenta Taiwan Ltd.	2021-05-30	2011-05-30	
 SYN-ØØØH2-5	Single trait	Soybean	Herbicide Tolerant Soybean	SYHT0H2	Syngenta Taiwan Ltd.	2019-03-28	2014-03-28	
 MON-ØØ6Ø3-6xDAS-4Ø278-9	Stacked trait	Corn	NK603 x DAS-40278-9 Corn	NK603xDAS-40278-9	Dow AgroSciences Taiwan Ltd.	2018-10-29	2013-10-29	
 SYN-BTØ11-1xSYN-IR162-4xSYN-IR6Ø4-5xDAS-Ø15Ø7-1xSYN-Ø53Ø7-1xMON-ØØØ21-9	Stacked trait	Corn	Bt11×MIR162×MIR604×TC1507×5307×GA21 Maize	Bt11xMIR162xMIR604xTC1507x5307xGA21	Syngenta Taiwan Ltd.	2018-10-15	2013-10-15	
