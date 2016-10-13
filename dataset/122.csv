@@ -47,7 +47,7 @@ TFDAA0005.00	營養成分檢驗方法	2011-11-15	http://www.fda.gov.tw/tc/includ
 TFDAA0006.00	食品中規定外煤焦色素之檢驗方法	2012-08-23	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=6594&chk=AEC194A2-C1DF-4BA5-9354-B4508F4F42A7	
 TFDAA0007.00	辣椒粉中鹼性橙及羅丹明B檢驗方法	2012-10-30	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=6897&chk=05E968BC-BF17-4337-991D-353181B60A72	
 TFDAA0008.02	食品中鄰苯二甲酸酯類塑化劑檢驗方法【102年3月25日第2次修正】	2013-03-25	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=7479&chk=F458F933-1070-49A3-93D9-BDFC550571F8	
-TFDAA0009.00	食品中甜味劑之檢驗方法	2013-04-03	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=7496&chk=7F72AB89-69F2-4B3D-952F-83273D54B741	
+TFDAA0009.01	食品中甜味劑之檢驗方法	2016-10-13	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21887&chk=8711f437-e55c-4a60-909e-c5e9842aa8bd	
 TFDAA0010.01	食品中順丁烯二酸與順丁烯二酸酐總量之檢驗方法【102年5月30日修正】	2013-05-30	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=7817&chk=86AAC749-6AC9-4496-9D37-EFE4EFF24631	
 TFDAA0011.00	食品中EDTA之建議檢驗方法	2013-06-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=7855&chk=E81A7323-E7E2-4D16-91C4-EBC0B891FBFF	
 TFDAA0012.01	食品中水溶性維生素之檢驗方法	2013-07-02	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=7977&chk=D63453A3-093C-4897-A4F2-ED8CF01DE5E2	
@@ -91,6 +91,9 @@ TFDAA0050.00	食品中游離態L-肉鹼之檢驗方法	2016-06-28	http://www.fda
 TFDAA0051.01	膠囊錠狀食品中葉黃素及玉米黃素之檢驗方法	2016-04-14	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=18113&chk=5a529b28-8328-4c60-b2b6-876d46f185ac	
 TFDAA0052.00	食品中褪黑激素之檢驗方法	2016-06-28	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21481&chk=e7de7072-9767-4d83-9e83-de100fedbc39	
 TFDAA0053.00	食品中維生素C之檢驗方法	2016-06-28	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21482&chk=92ab4103-d7c8-4c8c-bfc7-b47c6f900fed	
+TFDAA0054.00	膠囊及錠狀食品中氟離子之檢驗方法	2016-10-13	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21888&chk=ad7ffd7c-98c9-43f9-a7e7-a59554634c77	
+TFDAA0055.00	食品中游離態泛酸之檢驗方法	2016-10-13	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21889&chk=4363cb15-9448-4812-8f2a-c592453b7af6	
+TFDAA0056.00	食品中游離態葉酸之檢驗方法	2016-10-13	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21890&chk=508bd9aa-76b1-4053-8954-055778ecf7e1	
 TFDAG0001.00	基因改造食品檢驗方法－玉米轉殖品項BT11 (UI: SYN-BTØ11-1)之構造特異性定性及定量檢驗	2011-03-21	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=4600&chk=0816FE45-490D-41FF-8495-ECAB2E82BE9D	
 TFDAG0002.00	基因改造食品檢驗方法－玉米轉殖品項EVENT176 (UI SYN-EV176-9)之構造特異性定性及定量檢驗	2011-03-21	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=4601&chk=E7C327FE-4D22-4295-ADA4-E5319400B785	
 TFDAG0003.00	基因改造食品檢驗方法－玉米轉殖品項GA21 (UI: MON-ØØØ21-9)之構造特異性定性及定量檢驗	2011-03-21	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=4602&chk=4C134812-149C-486C-BF4F-93C853ED24D1	
@@ -146,6 +149,7 @@ TFDAO0022.01	食品中糖類之檢驗方法	2015-12-12	http://www.fda.gov.tw/tc/
 TFDAO0023.00	食品中番瀉苷之檢驗方法	2015-10-07	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=14164&chk=6656833b-d866-40a5-b347-58ef2a5d157d	
 TFDAO0024.00	奈米碳酸鈣及奈米珍珠粉之粒徑量測方法	2016-01-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17749&chk=1089af58-2bd0-4e30-b943-62966c74feee	
 TFDAO0025.01	食用油中苯殘留之檢驗方法	2016-10-12	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21883&chk=89985098-74cc-4577-a9aa-7d0e1d9884f9	
+TFDAO0026.00	茶葉中過氯酸鹽之檢驗方法	2016-10-13	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21891&chk=e72ccfa3-228a-45be-8869-a288e0a78778	
 TFDAT0001.00	食品中海洋生物毒素之檢驗方法－下痢性貝毒之檢驗	2015-03-19	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=10999&chk=65E06B85-DFDD-46AC-8E8D-C102E187A1EF	
 	化粧品中維他命A酸鑑別及含量測定方法	2007-12-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1629&chk=5714AB28-BB82-41A6-9AC5-9F11D6419943	
 	化粧品中甲醇及氯仿鑑別及含量測定方法	2007-12-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1628&chk=116FCC22-41CC-4AE2-8896-7E3631B58EE2	
