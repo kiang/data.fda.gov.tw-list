@@ -74,7 +74,7 @@
 07005	07005 檸檬酸鈣	2013-09-02	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2690&chk=44C9D2B6-077A-4DDA-AE70-08B462D4F343	
 07006	07006 磷酸二氫鈣	2013-09-02	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2691&chk=BB5EDC1A-0407-439F-8663-BBEA3DA27584	
 07007	07007 磷酸氫鈣	2013-09-02	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2692&chk=5F0F00BA-753A-4C33-A67E-977CE719E7F2	
-07009	07009 磷酸鈣	2013-09-02	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2693&chk=0E7BEB8C-594B-409A-9337-238E67265B58	
+07009	07009 磷酸鈣	2016-11-02	http://www.fda.gov.tw:8080/TC/siteListContent.aspx?sid=1798&id=21972	
 07010	07010 酸性焦磷酸鈣	2013-09-02	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2694&chk=3AF12910-7BA8-43C5-8B97-72DE59A4A067	
 07011	07011 甘油醇磷酸鈣	2013-09-02	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2695&chk=0CD45E3D-5071-49E1-A8FD-A9862E1CB936	
 07012	07012 乳酸鈣	2013-09-02	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2696&chk=77FEA7D2-A81F-4020-9EEE-7E6C0390574E	
@@ -222,6 +222,8 @@
 08137	08137 檸檬酸鈣	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=3836&chk=539711A8-A32B-434C-9608-F76E34D22B56	
 08139	08139 合成番茄紅素	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=3837&chk=0D2C5803-B54C-4F64-9F02-C697673F31CC	
 08140	08140 葡萄糖酸鈣	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2823&chk=3E3D04F6-8418-4024-838B-7599BACB9E48	
+08281	08281 鉬酸鈉	2016-11-02	http://www.fda.gov.tw:8080/TC/siteListContent.aspx?sid=1798&id=21970	
+08319	08319 亞鐵磷酸銨	2016-11-02	http://www.fda.gov.tw:8080/TC/siteListContent.aspx?sid=1798&id=21965	
 09001	09001 食用紅色六號	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2824&chk=170D4A8A-1305-405D-B0E3-42EF0B9F439C	
 09002	09002 食用紅色七號	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2825&chk=3820F66A-B5C5-441A-87D6-FD82727CDFF7	
 09003	09003 食用紅色七號鋁麗基	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2826&chk=A629282B-F9DB-4459-869B-10D37C3C36C4	
@@ -331,7 +333,7 @@
 11004	11004 反丁烯二酸	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2928&chk=88F0F9D1-DB1D-4DDB-B6A4-5DF18EC500B8	
 11005	11005 反丁烯二酸一鈉	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2929&chk=1C674440-DFAA-4591-A0A4-C0E9D855D566	
 11008	11008 檸檬酸、無水檸檬酸	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=3485&chk=B6F3789D-C178-4B47-B298-7F5F76A67FAA	
-11009	11009 檸檬酸鈉	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2931&chk=CE905A40-5475-4DCA-9A24-1702ED49BFBE	
+11009	11009 檸檬酸鈉	2016-11-02	http://www.fda.gov.tw:8080/TC/siteListContent.aspx?sid=1798&id=21971	
 11010	11010 琥珀酸	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2932&chk=E4E06D5B-A767-45C5-BD5B-BBABF55BF175	
 11011	11011 琥珀酸一鈉	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2933&chk=BD015092-3A71-4332-BBD9-8402E95B774E	
 11012	11012 琥珀酸二鈉	2013-09-04	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=2934&chk=4FB87E16-698B-4C2C-BE7D-F07B86B69100	
