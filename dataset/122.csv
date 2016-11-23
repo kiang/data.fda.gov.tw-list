@@ -124,6 +124,8 @@ TFDAG0028.00	基因改造食品檢驗方法－玉米轉殖品項MON87460 (UI: MO
 TFDAG0029.00	基因改造食品檢驗方法－黃豆轉殖品項MON87769 (UI: MON-87769-7)之轉殖品項特異性定性及定量檢驗	2015-03-09	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=10869&chk=5249039F-EDFA-499B-BB57-437953016A74	
 TFDAG0030.00	基因改造食品檢驗方法－黃豆轉殖品項MON87701 (UI: MON-877Ø1-2)之轉殖品項特異性定性及定量檢驗	2015-03-09	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=10870&chk=A35222E2-6EEA-4EA5-8E26-8BDBE0109FB0	
 TFDAG0031.00	基因改造食品檢驗方法－黃豆轉殖品項SYHT0H2 (UI: SYN-ØØØH2-5)之轉殖品項特異性定性及定量檢驗	2015-03-09	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=10871&chk=E39053DB-C17C-414C-937F-DC7968F22E84	
+TFDAG0032.00	基因改造食品檢驗方法－黃豆轉殖品項BPS-CV127-9 (UI: BPS-CV127-9)之轉殖品項特異性定性及定量檢驗	2016-11-23	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22130&t=s	
+TFDAG0033.00	基因改造食品檢驗方法－黃豆轉殖品項DAS-68416-4 (UI: DAS-68416-4)之轉殖品項特異性定性及定量檢驗	2016-11-23	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22131&t=s	
 TFDAO0001.00	食品中丙烯醯胺之檢驗方法(GC/MS)	2010-03-22	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1979&chk=7A882F6D-B655-4B90-87DB-403C19AD0865	
 TFDAO0002.00	飲料中兒茶素之參考檢驗方法	2010-11-16	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=3749&chk=3C086016-3DFD-4F84-BDE2-BF7EDDD38296	
 TFDAO0003.00	食品中丙烯醯胺之檢驗方法(LC/MS/MS)	2011-11-28	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=5438&chk=CC06CAF2-60E2-4006-A5AB-FAF81DD1DD11	
@@ -147,7 +149,7 @@ TFDAO0021.01	咖啡中二氯甲烷殘留之檢驗方法	2015-10-07	http://www.fd
 TFDAO0022.01	食品中糖類之檢驗方法	2015-12-12	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17523&chk=fa370f36-9c67-41fa-84f3-06e04928f8bc	
 TFDAO0023.00	食品中番瀉苷之檢驗方法	2015-10-07	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=14164&chk=6656833b-d866-40a5-b347-58ef2a5d157d	
 TFDAO0024.00	奈米碳酸鈣及奈米珍珠粉之粒徑量測方法	2016-01-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17749&chk=1089af58-2bd0-4e30-b943-62966c74feee	
-TFDAO0025.01	食用油中苯殘留之檢驗方法	2016-10-12	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21883&chk=89985098-74cc-4577-a9aa-7d0e1d9884f9	
+TFDAO0025.02	食用油中苯殘留之檢驗方法	2016-11-23	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22132&t=s	
 TFDAO0026.00	茶葉中過氯酸鹽之檢驗方法	2016-10-13	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21891&chk=e72ccfa3-228a-45be-8869-a288e0a78778	
 TFDAT0001.00	食品中海洋生物毒素之檢驗方法－下痢性貝毒之檢驗	2015-03-19	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=10999&chk=65E06B85-DFDD-46AC-8E8D-C102E187A1EF	
 	化粧品中維他命A酸鑑別及含量測定方法	2007-12-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1629&chk=5714AB28-BB82-41A6-9AC5-9F11D6419943	
@@ -208,3 +210,5 @@ TFDAT0001.00	食品中海洋生物毒素之檢驗方法－下痢性貝毒之檢�
 	化粧品中氯化芐二甲烴銨之檢驗方法	2016-04-14	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=18115&chk=3e2711a4-eddf-48ad-8911-d80a10fd5b57	
 	化粧品中染髮劑之檢驗方法【第1次修正】	2016-04-14	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=18116&chk=4a6b4463-6b83-4fbe-b2ab-c17c3e8a1f22	
 	化粧品中溴酸鈉之檢驗方法	2016-06-28	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21483&chk=d24b9f5f-dc3a-4186-ba57-921d67d33a72	
+	化粧品中氧化鋅奈米微粒之粒徑量測方法	2016-11-23	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22128&t=s	
+	化粧品中局部麻醉劑檢驗方法	2016-11-23	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22129&t=s	
