@@ -33,13 +33,13 @@ TFDAF0008.01	食品中動物性成分檢驗方法－鉤吻鮭屬魚類之定性�
 TFDAF0009.01	食品中動物性成分檢驗方法－大西洋鮭魚之定性檢驗	2016-07-15	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21584&chk=84893a5b-694c-4032-bd9d-8067076924be	
 TFDAF0010.01	食品中動物性成分檢驗方法－麥奇鉤吻鮭之定性檢驗	2016-07-15	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21585&chk=c8c545f2-5566-4b93-8fd2-673fef1ba2a8	
 TFDAF0011.01	食品中動物性成分檢驗方法－旗魚科魚類之定性檢驗	2016-07-15	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21586&chk=76834244-a3c7-4e09-afca-9a16f01845af	
+TFDAF0012.00	食品中動物性成分檢驗方法－蝦之定性檢驗	2017-01-06	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22389&t=s	
 TFDAU0001.00	食品器具容器包裝中塑化劑材質試驗之檢驗	2012-10-15	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=6844&chk=6A3968FF-047D-44D7-A73A-A9C2BB4C96D8	
 TFDAU0002.00	免洗筷中聯苯及鄰苯基苯酚之檢驗方法	2013-09-03	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=8134&chk=4CDCB87C-0B9C-4A41-8659-370870DF6578	
 TFDAU0003.00	免洗筷中腐絕及依滅列之檢驗方法	2013-09-03	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=8135&chk=40919F19-65C2-4922-8D55-F21E15AA4F07	
 TFDAU0004.02	紙製餐具中殘留甲苯之檢驗方法【102年11月26日修正】	2013-11-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=8097&chk=29EA1CB3-AF5A-4B5E-8990-4BDC1C459FA2	
-TFDAU0005.00	塑膠類嬰兒奶瓶中雙酚A之檢驗方法	2014-08-18	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=9521&chk=E05E03F9-641A-4CD7-BC95-28F853FD2AB5	
+TFDAU0005.01	塑膠類嬰兒奶瓶中雙酚A之檢驗方法	2017-01-06	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22387&t=s	
 TFDAA0001.00	食品中香豆素之參考檢驗方法	2010-07-05	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=3072&chk=80B58C3C-77F8-4F74-B2D9-5F1573AD45BF	
-TFDAA0002.00	食品中蘇丹色素之檢驗方法	2011-01-07	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=4101&chk=66EC3228-E8BA-4923-B2DC-25E37E0FF466	
 TFDAA0003.00	膠囊錠狀食品維生素礦物質檢驗方法彙整表	2011-01-27	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=3192&chk=EFA5C4BC-B5D9-4C50-9E96-1A7813274516	
 TFDAA0004.00	口香糖中木糖醇之檢驗方法	2011-06-30	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=5097&chk=3F351B8C-BB5D-42D8-8BDC-662E2BC3B190	
 TFDAA0005.00	營養成分檢驗方法	2011-11-15	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=5417&chk=11AC585E-92C2-4E22-B67F-1473D0F7BAFC	
@@ -93,6 +93,8 @@ TFDAA0053.00	食品中維生素C之檢驗方法	2016-06-28	http://www.fda.gov.tw
 TFDAA0054.00	膠囊及錠狀食品中氟離子之檢驗方法	2016-10-13	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21888&chk=ad7ffd7c-98c9-43f9-a7e7-a59554634c77	
 TFDAA0055.00	食品中游離態泛酸之檢驗方法	2016-10-13	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21889&chk=4363cb15-9448-4812-8f2a-c592453b7af6	
 TFDAA0056.00	食品中游離態葉酸之檢驗方法	2016-10-13	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21890&chk=508bd9aa-76b1-4053-8954-055778ecf7e1	
+TFDAA0057.00	食品中著色劑之檢驗方法(二)	2017-01-06	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22388&t=s	
+TFDAA0058.00	蛋類中蘇丹色素之檢驗方法	2017-01-06	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22390&t=s	
 TFDAG0001.00	基因改造食品檢驗方法－玉米轉殖品項BT11 (UI: SYN-BTØ11-1)之構造特異性定性及定量檢驗	2011-03-21	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=4600&chk=0816FE45-490D-41FF-8495-ECAB2E82BE9D	
 TFDAG0002.00	基因改造食品檢驗方法－玉米轉殖品項EVENT176 (UI SYN-EV176-9)之構造特異性定性及定量檢驗	2011-03-21	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=4601&chk=E7C327FE-4D22-4295-ADA4-E5319400B785	
 TFDAG0003.00	基因改造食品檢驗方法－玉米轉殖品項GA21 (UI: MON-ØØØ21-9)之構造特異性定性及定量檢驗	2011-03-21	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=4602&chk=4C134812-149C-486C-BF4F-93C853ED24D1	
@@ -155,7 +157,6 @@ TFDAT0001.00	食品中海洋生物毒素之檢驗方法－下痢性貝毒之檢�
 	化粧品中維他命A酸鑑別及含量測定方法	2007-12-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1629&chk=5714AB28-BB82-41A6-9AC5-9F11D6419943	
 	化粧品中甲醇及氯仿鑑別及含量測定方法	2007-12-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1628&chk=116FCC22-41CC-4AE2-8896-7E3631B58EE2	
 	化粧品中果酸成分鑑別及含量測定方法	2007-12-27	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1626&chk=619CFCEB-39A3-44F7-93FB-DC39FD7E58C9	
-	化粧品中美白成分鑑別及含量測定方法	2007-12-27	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1627&chk=5A2238E4-85FC-4BC6-BDEF-85D15EA9DC3A	
 	化粧品中鉻鑑別及含量測定方法	2009-03-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1630&chk=17CD73BC-157F-4BF9-914E-B296428EE66A	
 	燙髮劑中硫醇基乙酸成分之鑑別及含量測定	2009-03-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1632&chk=239DC2FA-BE67-4DEE-BFDA-0F4F39031A9D	
 	燙髮劑中溴酸鈉成分之鑑別及含量測定	2009-03-06	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1631&chk=C8861AD5-77B8-4D58-98C8-9D1C0412E37F	
@@ -212,3 +213,5 @@ TFDAT0001.00	食品中海洋生物毒素之檢驗方法－下痢性貝毒之檢�
 	化粧品中溴酸鈉之檢驗方法	2016-06-28	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21483&chk=d24b9f5f-dc3a-4186-ba57-921d67d33a72	
 	化粧品中氧化鋅奈米微粒之粒徑量測方法	2016-11-23	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22128&t=s	
 	化粧品中局部麻醉劑檢驗方法	2016-11-23	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22129&t=s	
+	化粧品中禁用色素類之鑑別及含量測定	2017-01-06	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22391&t=s	
+	化粧品中美白成分之檢驗方法	2017-01-06	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22392&t=s	
