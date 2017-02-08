@@ -6,11 +6,11 @@ MON-89Ø34-3xDAS-Ø15Ø7-1xMON-ØØ6Ø3-6	Stacked trait	Corn	MON89034xTC1507xNK6
 DAS-81419-2xDAS-444Ø6-6	Stacked trait	Soybean	Combined Trait Soybean	DAS-81419-2xDAS-44406-6	Dow AgroSciences Taiwan Ltd.	2021-07-12	2016-07-12	
 ACS-BNØØ5-8xACS-BNØØ3-6xMON-ØØØ73-7	Stacked trait	Canola	MS8 x RF3 x GT73 Canola	MS8xRF3xGT73	Bayer Taiwan Ltd.	2021-04-22	2016-04-22	
 MON-87427-7xMON-89Ø34-3xSYN-IR162-4xMON-ØØ6Ø3-6	Stacked trait	Corn	MON87427 x MON89034 x MIR162 x NK603 Corn	MON87427xMON89034xMIR162xNK603	香港商孟山都遠東股份有限公司台灣分公司	2021-05-05	2016-05-05	
-DAS-Ø15Ø7-1xMON-ØØ81Ø-6	Stacked trait	Corn	DAS-Ø15Ø7-1 x MON-ØØ81Ø-6 Maize	TC1507xMON810	DuPont Taiwan	2019-11-20	2014-11-20	
+DAS-Ø15Ø7-1xMON-ØØ81Ø-6	Stacked trait	Corn	TC1507 x MON810 Maize	TC1507xMON810	DuPont Taiwan	2019-11-20	2014-11-20	
 MON-ØØØ21-9xACS-ZMØØ3-2	Stacked trait	Corn	GA21 x T25 Maize	GA21xT25	Syngenta Taiwan Ltd.	2019-11-21	2014-11-21	
 MON-ØØØ21-9	Single trait	Corn	Glyphosate tolerant Corn	GA21	Syngenta Taiwan Ltd.	2018-07-23	2008-07-23	
 DP-Ø73496-4	Single trait	Canola	73496 Canola	73496	DuPont Taiwan	2021-05-13	2016-05-13	
-DAS-Ø15Ø7-1xMON-ØØ81Ø-6xSYN-IR6Ø4-5xMON-ØØ6Ø3-6	Stacked trait	Corn	DAS-Ø15Ø7-1xMON-ØØ81Ø-6x SYN-IR6Ø4-5xMON-ØØ6Ø3-6 Maize	TC1507xMON810xMIR604xNK603	DuPont Taiwan	2019-09-02	2014-09-02	
+DAS-Ø15Ø7-1xMON-ØØ81Ø-6xSYN-IR6Ø4-5xMON-ØØ6Ø3-6	Stacked trait	Corn	TC1507xMON810xMIR604xNK603 Maize	TC1507xMON810xMIR604xNK603	DuPont Taiwan	2019-09-02	2014-09-02	
 DAS-444Ø6-6	Single trait	Soybean	Herbicide Tolerant Soybean	DAS-44406-6	Dow AgroSciences Taiwan Ltd.	2019-09-04	2014-09-04	
 BCS-GHØØ2-5xACS-GHØØ1-3	Stacked trait	Cotton	Stacked Genetically Modified Cotton	GHB614xLLCotton25	Bayer Taiwan Ltd.	2020-12-14	2015-12-14	
 MON-877Ø5-6xMON-89788-1	Stacked trait	Soybean	MON87705 × MON89788 Soybean	MON87705xMON89788	香港商孟山都遠東股份有限公司台灣分公司	2019-09-04	2014-09-04	
@@ -57,7 +57,7 @@ MON-8746Ø-4	Single trait	Corn	Drought Tolerant Corn	MON87460	香港商孟山都
 ACS-ZMØØ3-2	Single trait	Corn	Glufosinate tolerant Corn	T25	Bayer Taiwan Ltd.	2017-08-16	2002-08-16	
 MON-877Ø8-9	Single trait	Soybean	Dicamba-Tolerant Soybean	MON87708	香港商孟山都遠東股份有限公司台灣分公司	2018-04-02	2013-04-02	
 MON-89Ø34-3xDAS-Ø15Ø7-1xMON-88Ø17-3xDAS-59122-7xDAS-4Ø278-9	Stacked trait	Corn	Combined Trait Corn	MON89034xTC1507xMON88017xDAS-59122-7xDAS-40278-9	Dow AgroSciences Taiwan Ltd.	2019-05-07	2014-05-07	
-DAS-Ø15Ø7-1xSYN-IR6Ø4-5xMON-ØØ6Ø3-6	Stacked trait	Corn	TC1507xMIR604xNK603 Maize	TC1507xMIR604xNK603	DuPont Taiwan	2016-12-01	2011-12-01	
+DAS-Ø15Ø7-1xSYN-IR6Ø4-5xMON-ØØ6Ø3-6	Stacked trait	Corn	TC1507xMIR604xNK603 Maize	TC1507xMIR604xNK603	DuPont Taiwan	2021-12-01	2011-12-01	
 MON-883Ø2-9	Single trait	Canola	Herbicide-Tolerant Canola	MON88302	香港商孟山都遠東股份有限公司台灣分公司	2020-12-21	2015-12-21	
 MON-887Ø1-3	Single trait	Cotton	Dicamba and Glufosinate Tolerant Cotton	MON88701	香港商孟山都遠東股份有限公司台灣分公司	2021-01-18	2016-01-18	
 MON-89Ø34-3xMON-88Ø17-3	Stacked trait	Corn	YieldGard VT Triple PRO Corn	MON89034xMON88017	香港商孟山都遠東股份有限公司台灣分公司	2019-02-17	2009-02-17	
@@ -86,7 +86,7 @@ DAS-Ø15Ø7-1xDAS-59122-7xMON-ØØ81Ø-6xMON-ØØ6Ø3-6	Stacked trait	Corn	TC150
 DAS-8191Ø-7	Single trait	Cotton	Herbicide Tolerant Cotton	DAS-81910-7	Dow AgroSciences Taiwan Ltd.	2021-08-22	2016-08-22	
 KM-ØØØH71-4	Single trait	Sugar Beet	Roundup Ready Sugar Beet	H7-1	香港商孟山都遠東股份有限公司台灣分公司	2020-12-14	2015-12-14	
 MON-87769-7	Single trait	Soybean	Stearidonic Acid-Producing Soybean	MON87769	香港商孟山都遠東股份有限公司台灣分公司	2018-12-16	2013-12-16	
-DP-ØØ4114-3	Single trait	Corn	Insect resistant and herbicide tolerant maize event DP-ØØ4114-3	4114	DuPont Taiwan	2019-06-27	2014-06-27	
+DP-ØØ4114-3	Single trait	Corn	Insect resistant and Glufosinate tolerant Maize	4114	DuPont Taiwan	2019-06-27	2014-06-27	
 MON-87427-7xMON-89Ø34-3xDAS-Ø15Ø7-1xMON-88Ø17-3xDAS-59122-7	Stacked trait	Corn	MON87427×MON89034×TC1507×MON88017×DAS-59122-7Corn	MON87427xMON89034xTC1507xMON88017xDAS-59122-7	香港商孟山都遠東股份有限公司台灣分公司	2019-05-07	2014-05-07	
 SYN-IR6Ø4-5	Single trait	Corn	Insect-resistant Corn	MIR604	Syngenta Taiwan Ltd.	2017-10-22	2007-10-22	
 MON-Ø4Ø32-6	Single trait	Soybean	Roundup Ready Soybean	40-3-2	香港商孟山都遠東股份有限公司台灣分公司	2017-07-22	2002-07-22	
