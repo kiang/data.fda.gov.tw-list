@@ -45,7 +45,7 @@ id,title,description,url,class,provider,columns,frequency,updated,contact,contac
 49,藥物濫用諮詢及輔導機構資料集,本資料集提供藥物濫用諮詢及輔導之機構名稱、地址及電話給有需要的民眾。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=49,管制藥品,管制藥品組,機構名稱、地址、電話,不定期,2014/11/19,蕭先生,02-2787-7647
 50,常見濫用管制藥品資料集,本資料集提供常見濫用管制藥品之相關資訊供民眾參考。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=50,管制藥品,管制藥品組,類別、藥物名稱、俗名、分級、醫療用途、濫用方式、說明、圖片、圖片文字,不定期,2017/02/20,王小姐,2787-7645
 51,銷售管制藥品一覽表,本資料集提供食品藥物管理署管制藥品工廠所販賣之管制藥品的銷售價格，藉此提供醫師、藥師、醫護人員、業者等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=51,管制藥品,製藥工廠,管制級別、藥品名稱、藥品英文名稱、主要成分、適應症、有效期間、售價單位、售價單價、包裝規格、健保藥品代碼、分裝、備註,不定期,2016/03/23,吳小姐,02-2787-8036
-52,不符合食品資訊資料集,本資料集係提供進口食品及相關產品之不符合資訊。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=52,食品,北區管理中心,產地、主旨、原因、進口商名稱、進口商地址、貨品分類號列、不合格原因暨檢出量詳細說明、法規限量標準、製造廠或出口商名稱、製造商代碼、牌名、重量、處置情形、發布日期、報驗受理日期、附圖,不定期,2017/02/27,楊小姐,02-2787-8373
+52,不符合食品資訊資料集,本資料集係提供進口食品及相關產品之不符合資訊。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=52,食品,北區管理中心,產地、主旨、原因、進口商名稱、進口商地址、貨品分類號列、不合格原因暨檢出量詳細說明、法規限量標準、製造廠或出口商名稱、製造商代碼、牌名、重量、處置情形、發布日期、報驗受理日期、附圖,不定期,2017/03/06,楊小姐,02-2787-8373
 53,藥品安全資訊風險溝通資料,"本署針對藥品安全警訊，必要時會發布藥品安全資訊風險溝通表，以提醒醫療人員及民眾注意。
 本資料集為提供藥品安全資訊風險溝通資料，將可停供醫療人員及民眾注意安全訊息。",http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=53,藥品,藥品組,發布日期、藥品成分、藥品名稱及許可證字號、適應症、藥理作用機轉、訊息緣由、藥品安全有關資訊分析及描述、TFDA風險溝通說明,不定期,2015/02/11,楊先生,02-2787-7413
 54,須執行藥品風險管理計畫藥品名單,"本署針對新藥或上市已久藥品，若發現其具有特定風險，必要時要求藥商執行藥品風險管理計畫，例如病人用藥須知、醫療人員通知，以確保民眾用藥安全。
@@ -56,7 +56,7 @@ id,title,description,url,class,provider,columns,frequency,updated,contact,contac
 57,認可濫用藥物尿液檢驗機構名單資料集,提供本署認可濫用藥物尿液檢驗機構之相關資料給民眾參考。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=57,實驗室認證,風險管理組,機構名稱、聯絡人、聯絡人電話、機構地址、認可項目、認可字號,每半年,2017/01/25,吳小姐,02-2787-7127
 58,藥物化粧品認證實驗室名單資料集,提供本署藥物化粧品認證實驗室之相關資料給民眾參考。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=58,實驗室認證,風險管理組,認證編號、實驗室名稱、實驗室地址、實驗室電話、實驗室網站、通過日期、檢驗項目、公告資訊名稱、公告資訊連結、認證證書連結,每3個月,2017/02/08,楊先生,02-2787-7124
 59,食品認證實驗室名單資料集,提供本署食品認證實驗室之相關資料給民眾參考。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=59,實驗室認證,風險管理組,認證編號、實驗室名稱、實驗室地址、實驗室電話、實驗室網站、通過日期、認證項目、公告資訊名稱、公告資訊連結、認證證書連結,每月,2017/02/02,陳先生,02-2787-7126
-60,食品法規條文資料集,食品藥物管理署依職掌權責公告訂定食品相關法律規範，包含法律、標準、辦法、指引、要點、函釋…等。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=60,食品,食品組,類別、法規性質、法規名稱、條文內容、發佈日期、附件下載,不定期,2017/02/28,黃先生,02-2787-7394
+60,食品法規條文資料集,食品藥物管理署依職掌權責公告訂定食品相關法律規範，包含法律、標準、辦法、指引、要點、函釋…等。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=60,食品,食品組,類別、法規性質、法規名稱、條文內容、發佈日期、附件下載,不定期,2017/03/07,黃先生,02-2787-7394
 61,食品添加物使用範圍及限量暨規格標準資料集,准用之食品添加物功能類別、品項、使用範圍、限量、規格及其他使用規範。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=61,食品,食品組,類別、中文品名、英文品名、使用食品範圍及限量、使用限制、規格、類別說明,不定期,2014/12/27,李先生,02-2787-7378
 62,消費紅綠燈-國際食品資料集,針對國際食品資訊，由專人每日巡查國外衛生機關網站公布的資訊，主要選定本國進口量較大的國家，例如美、英、日、歐盟…等國家，翻譯並彙整後公開的資料。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=62,食品,食品組,燈號、標題名稱、內容、附檔、更新日期,不定期,2017/03/06,連小姐,2787-7326
 63,病人用特殊營養食品許可資料集,藉由本資料集可查詢經衛生福利部查驗登記核准之特定疾病配方食品之食品相關資訊。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=63,食品,食品組,核備函字號、中文名稱、英文名稱、發證日期、有效日期、申請商名稱、申請商電話、申請商地址、劑型、包裝規格、成分、產地、簽審文件編號,每3個月,2017/02/07,王小姐,02-2787-7337
@@ -70,7 +70,7 @@ id,title,description,url,class,provider,columns,frequency,updated,contact,contac
 72,含藥化粧品詳細處方成分資料集,本資料集提供含藥化粧品詳細處方成分資料，並每週與藥證業務管理系統同步，藉此提供醫師、藥師、醫護人員、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=72,化粧品,醫療器材及化粧品組,許可證字號、處方標示、成分名稱、含量描述、含量、含量單位,每2週,2017/02/27,葉小姐,02-2787-7565
 73,含藥化粧品仿單或外盒資料集,本資料集提供含藥化粧品仿單或外盒資料，並每週與藥證業務管理系統同步，藉此提供醫師、藥師、醫護人員、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=73,化粧品,醫療器材及化粧品組,許可證字號、中文品名、英文品名、仿單圖檔連結、外盒圖檔連結,每2週,2017/02/27,葉小姐,02-2787-7565
 97,食品業者登錄資料集,藉由本資料集可查詢於食品業者登錄平台完成登錄之食品業者資訊。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=97,食品,食品組,公司或商業登記名稱、公司統一編號、業者地址、食品業者登錄字號、登錄項目,每月,2017/02/12,黃先生,02-2787-8059
-98,西藥醫療器材化粧品廣告核准資料集,本資料集主要提供衛生單位核准之西藥、醫療器材及化粧品廣告核准基本資料，以供各界查詢。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=98,其他,醫療器材及化粧品組,審查機關、產品類別、廣告品名、申請廠商、廣告核准字號、核准起始日期、核准結束日期、廣告類別,每天,2017/03/05,楊小姐,02-2787-7591
+98,西藥醫療器材化粧品廣告核准資料集,本資料集主要提供衛生單位核准之西藥、醫療器材及化粧品廣告核准基本資料，以供各界查詢。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=98,其他,醫療器材及化粧品組,審查機關、產品類別、廣告品名、申請廠商、廣告核准字號、核准起始日期、核准結束日期、廣告類別,每天,2017/03/06,楊小姐,02-2787-7591
 99,化粧品GMP查核名單資料集,本資料集開放化粧品GMP查核名單資料，並同步署網更新，藉此提供消費者、業者……等進一步使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=99,化粧品,醫療器材及化粧品組,編號、廠商名稱、廠商地址、劑型、第1次通過日期、第2次通過日期、是否在3年有效期限內,不定期,2017/03/02,葉小姐,02-2787-7565
 100,藥物濫用案件暨檢驗統計資料集,本資料集開放藥物濫用案件暨檢驗統計資料，並同步署網更新，藉此提供一般民眾等進一步使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=100,管制藥品,管制藥品組,標題、連結,每月,2017/01/12,吳先生,02-2787-7637
 101,管制藥品簡訊季刊資料集,本資料集開放管制藥品簡訊季刊資料，並同步署網更新，藉此提供一般大眾等進一步使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=101,管制藥品,管制藥品組,發布日期、標題、網站連結,每四個月,2015/02/11,王小姐,02-2787-7634
@@ -92,7 +92,7 @@ id,title,description,url,class,provider,columns,frequency,updated,contact,contac
 117,食品中毒案件攝食場所案件數統計,本資料集提供民國70年以後「食品中毒案件攝食場所案件數統計」，以提供一般民眾、業者、學術機構等使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=117,食品,食品組,年度、自宅、供膳之營業場所、學校、辦公場所、醫療場所、運輸工具、部隊、野外、攤販、外燴、監獄、其他、總計,每一年,2014/12/22,黃小姐,02-2787-7392
 118,食品中毒案件攝食場所患者數統計,本資料集提供民國70年以後「食品中毒案件攝食場所患者數統計」，以提供一般民眾、業者、學術機構等使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=118,食品,食品組,年度、自宅、供膳之營業場所、學校、辦公場所、醫療場所、運輸工具、部隊、野外、攤販、外燴、監獄、其他、總計,每一年,2014/12/22,黃小姐,02-2787-7392
 119,食品中毒案件食品被污染或處置錯誤場所案件數統計,本資料集提供民國79年以後「食品中毒案件食品被污染或處置錯誤場所案件數統計」，以提供一般民眾、業者、學術機構等使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=119,食品,食品組,年度、自宅、供膳之營業場所、學校、辦公場所、醫療場所、食品工廠、攤販、販賣地點、部隊、原料食品採集場所、野外、外燴、監獄、其他、不明場所、總計,每一年,2014/12/22,黃小姐,02-2787-7392
-120,本署新聞公告資料集,本資料集提供本署新聞公告資料，提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=120,其他,資訊室,標題、內容、附檔連結、發布日期,不定期,2017/03/05,陳先生,02-2787-7895
+120,本署新聞公告資料集,本資料集提供本署新聞公告資料，提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=120,其他,資訊室,標題、內容、附檔連結、發布日期,不定期,2017/03/06,陳先生,02-2787-7895
 121,公告檢驗方法資料集,本資料集提供公告檢驗方法資料，藉此提供學術單位、實驗機構、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=121,研究檢驗,研究檢驗組,檢驗方法編碼、標題、發布日期、連結,不定期,2017/02/21,徐小姐,02-2787-7718
 122,建議檢驗方法資料集,本資料集提供建議檢驗方法資料，藉此提供學術單位、實驗機構、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=122,研究檢驗,研究檢驗組,檢驗方法編碼、標題、發布日期、連結,不定期,2017/01/10,徐小姐,02-2787-7718
 123,食品添加物規格檢驗方法資料集,本資料集提供食品添加物規格檢驗方法資料，藉此提供學術單位、實驗機構、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=123,研究檢驗,研究檢驗組,代碼、標題、發布日期、連結,不定期,2017/02/24,徐小姐,02-2787-7718
@@ -115,7 +115,7 @@ id,title,description,url,class,provider,columns,frequency,updated,contact,contac
 140,各年度輸入食品各檢驗項目檢驗結果資料集,本資料集提供各年度輸入食品各檢驗項目檢驗結果，藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=140,食品,北區管理中心,年度、檢驗項目、檢驗批數、不合格批數、不合格率一、不合格率二,每一年,2016/08/22,呂小姐,02-2787-8376
 143,管制藥品管理相關法規資料集,食品藥物管理署依職掌權責公告訂定管制藥品管理相關法律規範，包含法律、標準、辦法、指引、要點、函釋…等。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=143,管制藥品,管制藥品組,標題、連結、更新日期,每月,2017/02/10,王先生,2787-7617
 144,衛生福利部食品藥物管理署預算書資料集,衛生福利部食品藥物管理署單位預算、衛生福利部食品藥物管理署附署單位預算。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=144,其他,主計室,標題、發布日期、連結,每一年,2017/03/06,吳小姐,2787-7963
-145,衛生福利部食品藥物管理署決算書資料集,衛生福利部食品藥物管理署單位決算、衛生福利部食品藥物管理署附署單位決算。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=145,其他,主計室,標題、發布日期、連結,每一年,2017/03/06,吳小姐,2787-7963
+145,衛生福利部食品藥物管理署決算書資料集,衛生福利部食品藥物管理署單位決算、衛生福利部食品藥物管理署附署單位決算。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=145,其他,主計室,標題、發布日期、連結,每一年,2017/03/07,吳小姐,2787-7963
 146,化粧品不合格產品名單資料集,本資料集為「化粧品不合格產品名單」資料，並與署網同步更新，藉此提供學術單位、業者、民眾等使用者進一步使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=146,化粧品,醫療器材及化粧品組,產品品名、批號、廠商名稱、品質檢驗判定結果,不定期,2015/03/25,楊小姐,2787-7591
 147,市售食品中殘留動物用藥監測結果資料集,本資料集提供市售食品中殘留動物用藥監測結果，藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=147,食品,中區管理中心,年度月份、抽樣衛生局、檢體名稱、抽驗廠商、檢出項目及殘留容許量,不定期,2017/02/20,陳先生,04-2369-2440
 148,市售食品中真菌毒素汙染監測計畫檢驗結果資料集,本資料集提供市售食品中真菌毒素汙染監測計畫檢驗結果，藉此提供學術單位、業者、民眾等使用者使用。,http://data.fda.gov.tw/frontsite/data/DataAction.do?method=doDetail&infoId=148,食品,北區管理中心,年度、檢體名稱、抽驗廠商名稱、抽驗廠商地址、有效日期、產地、真菌毒素檢出量及其限量標準、發布日期,不定期,2015/04/01,陳先生,03-850-9021
