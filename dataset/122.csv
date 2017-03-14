@@ -63,7 +63,7 @@ TFDAA0022.00	肉及肉製品水分含量建議檢驗方法	2014-08-14	http://www
 TFDAA0023.00	食品中食品添加物建議檢驗方法彙整表(2)	2014-08-14	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=9515&chk=020BC76E-E29B-45B2-AB42-AD69D5D0C409	
 TFDAA0024.00	膠囊錠狀食品中大豆異黃酮之檢驗方法	2014-08-21	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=9545&chk=BF1125C4-1975-432C-930F-44E31A1BBBDD	
 TFDAA0025.00	食品中脂溶性維生素之檢驗方法	2014-08-21	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=9546&chk=B43EFEA9-F50E-4ADA-B14F-2B5FD6D56AF9	
-TFDAA0026.00	健康食品保健功效(品管指標)成分或特定項目檢驗方法	2014-09-15	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=9623&chk=D26CF7A2-00A7-44CF-994E-27CD4194A203	
+TFDAA0026.01	健康食品保健功效(品管指標)成分或特定項目檢驗方法	2017-03-14	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22836&t=s	
 TFDAA0027.00	食品中乙烯二胺四醋酸二鈉鈣之檢驗方法	2014-11-28	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=10052&chk=C2483D79-60FB-4966-B924-4E352AF5C2A6	
 TFDAA0028.00	食品中二甲基黃及二乙基黃之鑑別方法	2014-12-24	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=10227&chk=56EB4A45-4157-4D7F-B565-63385D2AA1C2	
 TFDAA0029.00	嬰兒配方乳品中碘離子之檢驗方法	2014-12-27	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=10315&chk=BFC7C488-4159-4DFA-BE1E-4181C34D1C5E	
@@ -151,9 +151,11 @@ TFDAO0021.01	咖啡中二氯甲烷殘留之檢驗方法	2015-10-07	http://www.fd
 TFDAO0022.01	食品中糖類之檢驗方法	2015-12-12	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17523&chk=fa370f36-9c67-41fa-84f3-06e04928f8bc	
 TFDAO0023.00	食品中番瀉苷之檢驗方法	2015-10-07	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=14164&chk=6656833b-d866-40a5-b347-58ef2a5d157d	
 TFDAO0024.00	奈米碳酸鈣及奈米珍珠粉之粒徑量測方法	2016-01-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=17749&chk=1089af58-2bd0-4e30-b943-62966c74feee	
-TFDAO0025.02	食用油中苯殘留之檢驗方法	2016-11-23	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22132&t=s	
+TFDAO0025.02	食用油中苯之檢驗方法	2016-11-23	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22132&t=s	
 TFDAO0026.00	茶葉中過氯酸鹽之檢驗方法	2016-10-13	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=21891&chk=e72ccfa3-228a-45be-8869-a288e0a78778	
 TFDAT0001.00	食品中海洋生物毒素之檢驗方法－下痢性貝毒之檢驗	2015-03-19	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=10999&chk=65E06B85-DFDD-46AC-8E8D-C102E187A1EF	
+TFDAD0001.00	食品中總有效氯之檢驗方法	2017-03-14	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22834&t=s	
+TFDAD0002.00	食品中亞氯酸鹽及氯酸鹽之檢驗方法	2017-03-14	http://www.fda.gov.tw:8080/tc/includes/GetFile.ashx?mid=133&id=22835&t=s	
 	化粧品中維他命A酸鑑別及含量測定方法	2007-12-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1629&chk=5714AB28-BB82-41A6-9AC5-9F11D6419943	
 	化粧品中甲醇及氯仿鑑別及含量測定方法	2007-12-26	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1628&chk=116FCC22-41CC-4AE2-8896-7E3631B58EE2	
 	化粧品中果酸成分鑑別及含量測定方法	2007-12-27	http://www.fda.gov.tw/tc/includes/SiteListGetFile.ashx?mid=133&id=1626&chk=619CFCEB-39A3-44F7-93FB-DC39FD7E58C9	
