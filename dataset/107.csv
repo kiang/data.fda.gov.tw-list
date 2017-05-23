@@ -652,6 +652,7 @@ Fluconazole cap 50mg	生達	衛署藥製 043339		Y		881020	Diflucan cap 150mg	Pf
 Fluconazole cap 50mg	瑞安	衛署藥製 041997		Y		870213	Diflucan cap 150mg	Pfizer	Taiwan	
 Fluconazole cap 50mg	中國化學	衛署藥製 041335			Y	860313	Azol-fluconazole cap 150mg	中國化學	Taiwan	
 Fluconazole tab 200mg	永信	衛署藥製 037579		Y		830328	Diflucan cap 200mg	Pfizer	Taiwan	
+Fluticasone nasal spray 50mcg/dose	健喬信元	衛署藥製 055903			Y	1040121	Flixonase nasal spray 50mcg/metered spray	Glaxo wellcome, S.A.	Spain	
 Fluoxetine cap 10mg	永信	衛署藥製 044470			Y	900426	Fluronin cap 20mg	永信	Taiwan	
 Fluoxetine cap 10mg	生達	衛署藥製 043705			Y	890125	Flux cap 20mg	生達	Taiwan	
 Fluoxetine cap 10mg	順生	衛署藥製 041936			Y	870211	Serotec cap 20mg	順生	Taiwan	
@@ -951,6 +952,7 @@ Misoprostol tab 200mcg	優良	衛署藥製 043707		Y		881231	Cytotec tab 200mg	S
 Moclobemide tab 150mg	中國化學	衛署藥製 042347		Y		870525	Aurorix tab 150mg	F. Hoffmann-La Roche	Switzerland	
 Moclobemide tab 150mg	中國生化	衛署藥製 043892		Y		890719	Aurorix tab 150mg	F. Hoffmann-La Roche	Switzerland	
 Moclobemide tab 150mg	信東	衛署藥製 042957		Y		880503	Aurorix tab 150mg	F. Hoffmann-La Roche	Switzerland	
+Momentasone nasal spray 50mcg/dose	健喬信元	衛部藥製 058777			Y	1040113	Nasonex aqueous nasal spray 0.05%	Schering-Plough Labo N.V.	Belgium	
 Montelukast chewable tab 5mg	中國化學	衛署藥製 056785		Y		1000913	Singulair chewable tab 5mg	MSD	UK	
 Montelukast chewable tab 5mg	健喬信元	衛署藥製 057905		Y		1020403	Singulair chewable tab 5mg	Merck Sharp & Dohme Ltd	UK	
 Montelukast oral granules 4mg	健喬信元	衛部藥製 058245		Y		1030310	Singuliar oral granules 4mg	Merck Sharp & Dohme Ltd	US	
@@ -1177,6 +1179,7 @@ Pravastatin tab 5mg	優良	衛署藥製 043887		Y		890705	Mevalotin tab 5mg	Sank
 Pravastatin tab 5mg	台灣三共	衛署藥製 044133			Y	900105	Mevalotin tab 5mg	Sankyo 	Japan	
 Pravastatin tab 5mg	信東	衛署藥製 045469			Y	930413	Pratin tab 10mg	信東	Taiwan	
 Pregabalin hard cap 75mg	生達	衛部藥製 058292		Y		1030502	Lyrica hard cap 75mg	Pfizer	Germany	
+Pregabalin hard cap 75mg	南光	衛部藥製 059068			Y	1041208	Lyrica hard cap 75mg	Pfizer Manufacturing Deutshland GmbH	Germany	
 Pregabalin hard cap 75mg	永信	衛部藥製 059388		Y		1050802	Lyrica hard cap 75mg	Pfizer Manufacturing Deutshland GmbH	Germany	
 Pregabalin hard cap 150mg	永信	衛部藥製 059416			Y	1051230	Phudialin hard cap 75mg	永信台中幼獅廠	Taiwan	
 Procaterol tab 25mcg	台灣道斯	衛署藥製 047482		Y		940809	Meptin-mini tab 25ug 	大塚	Taiwan	
@@ -1416,7 +1419,7 @@ Tamsulosin SR cap 0.2mg	生達	衛署藥製 046016		Y		920821	Harnalidge cap 0.2
 Tamsulosin SR cap 0.2mg	信東	衛署藥製 050168		Y		970702	Harnalidge cap 0.2mg	Astellas Tokai	Japan	
 Tamsulosin SR cap 0.2mg	強生	衛署藥製 048637		Y		960319	Harnalidge cap 0.2mg	Yamanouchi	Japan	
 Tamsulosin SR tab 0.2mg	貽丹	衛署藥製 049342		Y		970306	Harnalidge cap 0.2mg	Yamanouchi	Japan	
-Tamsulosin SR tab 0.2mg	漢旭	衛署藥製055576		Y		991201	Harnalidge D tab 0.2mg	Astellas	Japan	
+Tamsulosin SR tab 0.2mg	漢旭	衛署藥製 055576		Y		991201	Harnalidge D tab 0.2mg	Astellas	Japan	
 Tamsulosin SR tab 0.2mg	五洲	衛署藥製 047629		Y		940722	Harnalidge tab 0.2mg	Yamanouchi	Japan	
 Tamsulosin PR tab 0.4mg	瑩碩	衛部藥製 058817		Y		1040414	Harnalidge OCAS PR tab 0.4mg	Astellas Pharma Europe BV	Netherland	
 Tamsulosin SR OD tab 0.2mg	生達	衛部藥製 058548		Y		1031022	Harnalidge D SR OD tab 0.2mg	Asrellas Pharma Tech Co. Ltd. Yaizu Technology	Japan	
@@ -1514,12 +1517,12 @@ Valsartan tab 160mg	生達	衛署藥製 055557		Y		990908	Diovan tab 160mg	Novar
 Valsartan tab 160mg	信東	衛部藥製 058085		Y		1020911	Diovan tab 160mg	Novartis 	Spain	
 Valsartan tab 160mg	健亞	衛署藥製 056318	Y			1000222	Diovan tab 160mg	Novartis	Spain	
 Valsartan tab 160mg	健喬信元	衛部藥製 058170		Y		1021030	Diovan tab 160mg	Novartis 	Spain	
-Valsartan tab 160mg	瑩碩	衛部藥製058090		Y		1020729	Diovan tab 160mg	Novartis 	Spain	
+Valsartan tab 160mg	瑩碩	衛部藥製 058090		Y		1020729	Diovan tab 160mg	Novartis 	Spain	
 Valsartab tab 160mg	正和新營廠	衛部藥製 059199			Y	1050512	Lasovan tab 80mg	正和新營廠	Taiwan	
 Valsartab tab 160mg	瑞士	衛部藥製 059196			Y	1050413	Retonin tab 80mg	瑞士新市廠	Taiwan	
 Valsartan tab 320mg	健喬信元	衛部藥製 058191			Y	1021126	Vaks  tab 160mg	健喬信元	Taiwan	
 Valsartan tab 320mg	中國化學	衛署藥製 057342			Y	1010620	Vosaa tab tab 80mg	中國化學	Taiwan	
-Valsartan/ Hydrochlorothiazide tab 80/12.5mg	瑪科隆	衛署藥製057371		Y		1001212	Co-Diovan  tab 80mg/12.5mg	Novartis Farma 	Italy	
+Valsartan/ Hydrochlorothiazide tab 80/12.5mg	瑪科隆	衛署藥製 057371		Y		1001212	Co-Diovan  tab 80mg/12.5mg	Novartis Farma 	Italy	
 Valsartan/Hydrochlorothiazide cap 80/12.5mg	瑩碩	衛署藥製 057153		Y		1010116	Co-Diovan 80mg/12.5mg tab 	Norvatis 	Switzerland	
 Venlafaxine tab 37.5mg	怡發	衛署藥製 045961		Y		920825	Efexor tab 37.5mg	Wyeth-Ayerst	Canada	
 Venlafaxine tab 37.5mg	英伯士	衛署藥製 047090		Y		931011	Efexor tab 37.5mg	Wyeth-Ayerst	Canada	
