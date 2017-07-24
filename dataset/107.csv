@@ -119,7 +119,7 @@ Amoxicillin/ Clavulanic acid  tab 500mg/125mg	永信	衛署藥製 045276		Y		911
 Amoxicillin/ Clavulanic acid  tab 875mg/125mg	台灣諾華	衛署藥輸 024808		Y		970226	Augmentin tab 	Smithkline Beecham	UK	
 Ampicillin/ Sulbactam inj 1g/0.5g 	中國化學	衛署藥製 042756		Y		880105	Unasyn inj 1.5gm	Pfizer	Italy	
 Ampicillin/ Sulbactam inj 1g/0.5g 	永信	衛署藥製 046544		Y		930917	Unasyn inj 1.5gm	Pfizer	Italy	
-Anastrozole tab 1mg	台灣東洋	衛署藥製 047539		Y		940905	Arimidex tab 1mg	AstraZeneca	US	
+Anastrozole tab 1mg	臺灣東洋	衛署藥製 047539		Y		940905	Arimidex tab 1mg	AstraZeneca	US	
 Anastrozole tab 1mg	吉富	衛署藥輸 025288		Y		991014	Arimidex tab 1mg	AstraZeneca	US	
 Anastrozole tab 1mg	杏輝	衛署藥製 056730		Y		1000125	Arimidex tab 1mg	AstraZeneca	US	
 Anastrozole tab 1mg	美時	衛署藥製 048909		Y		960111	Arimidex tab 1mg	AstraZeneca	US	
@@ -236,9 +236,9 @@ Bupropion SR tab 150mg	瑪科隆	衛署藥製 055005		Y		980805	Wellbutrin S.R. 
 Bupropion XL ER tab 300mg	安成	衛署藥製 057337		Y		1001130	Wellbutrin XL E.R. tab 300mg	Biovail 	Canada	
 Buspirone tab 5mg	健喬信元	衛署藥製 040134		Y		930112	Buspar tab 5mg	B.M.S.	US	
 Buspirone tab 5mg	聯邦	衛署藥製 034610		Y		940512	Buspar tab 5mg	Bristol-Myers Squibb	Australia	
-Buspirone tab 5mg	台灣東洋	衛署藥製 041523			Y	881201	Busron tab 10mg	台灣東洋	Taiwan	
+Buspirone tab 5mg	臺灣東洋	衛署藥製 041523			Y	881201	Busron tab 10mg	臺灣東洋	Taiwan	
 Buspirone tab 5mg	華興	衛署藥製 040085			Y	940105	Buisline tab 10mg	華興	Taiwan	
-Buspirone tab 10mg	台灣東洋	衛署藥製 041445		Y		880722	Buspar tab 10mg	BMS	Australia	
+Buspirone tab 10mg	臺灣東洋	衛署藥製 041445		Y		880722	Buspar tab 10mg	BMS	Australia	
 Buspirone tab 10mg	健喬信元	衛署藥製 039778		Y		940301	Buspar tab 10mg	BMS	Australia	
 Buspirone tab 10mg	華興	衛署藥製 039221		Y		880930	Buspar tab 10mg	BMS	US	
 Buspirone tab 10mg	黃氏	衛署藥製 035011		Y		880202	Buspar tab 10mg	BMS	US	
@@ -426,6 +426,7 @@ Clozapine tab 100mg	優生	衛署藥製 043859		Y		890704	Clozaril tab 100mg	Nov
 Cyclobenzaprine tab 5mg	健喬信元	衛署藥製 049545			Y	970530	Flexer tab 10mg	健喬信元	Taiwan	
 Cyclobenzaprine tab 10mg	派頓	衛署藥製 048499		Y		951101	Flexeril tab 10mg	Merck/McNeil	US	
 Cyclobenzaprine tab 10mg	健喬信元	衛署藥製 047787	Y			940816	Flexeril tab 10mg	Merck 	US	
+Cyclobenzaprine ER tab 30mg	旭能	衛部藥製 059670		Y		1060111	Amrix ER cap 30mg	Aptalis Pharmatech Inc.	US	
 Cyclosporin cap 100mg	艾維斯	衛署藥輸 024127		Y		930308	Sandimmun Neoral cap 100mg	Novartis	Switzerland	
 Cyclosporin cap 25mg	艾維斯	衛署藥輸 024110		Y		930412	Sandimmun Neoral cap 25mg	Novartis	Switzerland	
 Cyclosporin gel cap 100mg	因華	衛署藥製 050140		Y		980427	Sandimmun Neoral cap 100mg	R.P. Scherer 	Germany	
@@ -453,7 +454,7 @@ Donepezil OD tab 5mg	生達	衛署藥製 056646		Y		1000222	Aricept D tab 5mg	Ei
 Donepezil tab 10mg	南光	衛署藥製 049348		Y		970307	Aricept tab 10mg	衛采	Taiwan	
 Donepezil tab 10mg	瑞安	衛署藥製 055538		Y		991026	Aricept tab 10mg	Eisai	Taiwan	
 Donepezil tab 10mg	瑞蒙	衛署藥製 051718		Y		980331	Aricept tab 10mg	衛采	Taiwan	
-Donepezil tab 10mg	瑩碩	衛署藥製 050273		Ｙ		980717	Aricept  tab 10mg	衛采	Taiwan	
+Donepezil tab 10mg	瑩碩	衛署藥製 050273		Y		980717	Aricept  tab 10mg	衛采	Taiwan	
 Donepezil tab 10mg	瑞士	衛署藥製 057965			Y	1000321	Remecin tab 5mg	瑞士	Taiwan	
 Donepezil tab 5mg	中國化學	衛署藥製 047469		Y		940727	Aricept tab 5mg	衛采	Taiwan	
 Donepezil tab 5mg	信東	衛署藥製 056737		Y		1000110	Aricep tab 5mg	衛采	Taiwan	
@@ -488,6 +489,7 @@ Ebastine tab 10mg	五洲	衛署藥製 047950		Y		940202	Ebastel tab 10mg	Dainipp
 Ebastine tab 5mg	景德	衛署藥製 049700		Y		970917	Ebastel tab 5mg	Dainippon	Japan	
 Efavirenz tab 600mg	美商惠而適	衛署藥製 056775		Y		1000811	Stocrit tab 600mg	MSD	Australia	
 Efavirenz tab 600mg	聯亞	衛部藥製 058392		Y		1030527	Stocrit tab 600mg	MSD	Australia	
+Emtricitabine/Tenofovir tab 200mg/300mg	貽康	衛部藥製 059685		Y		1050809	Truvada tab 200/300mg	Gilead Science Inc.	US	
 Enalapril tab 10mg	永信	衛署藥製 044480			Y	900510	Landing tab 20mg	永信	Taiwan	
 Enalapril tab 10mg	回春堂	衛署藥製 042712			Y	870929	Peri Safe tab 20mg	回春堂	Taiwan	
 Enalapril tab 20mg	大豐	衛署藥製 044315		Y		900208	Renitec tab 20mg	MSD	UK	
@@ -513,12 +515,14 @@ Entecavir tab 0.5mg	瑩碩	衛署藥製 057786		Y		1010822	Baraclude tab 0.5mg	B
 Entecavir tab 0.5mg	勝群	衛部藥製 058369		Y		1030416	Baraclude tab 0.5mg	Bristol-Myers Squibb	US	
 Entecavir tab 0.5mg	生達	衛部藥製 058542		Y		1030620	Baraclude tab 0.5mg	Bristol-Myers Squibb	US	
 Entecavir tab 0.5mg	健亞	衛部藥製 058091		Y		1020502	Baraclude tab 0.5mg	Bristol-Myers Squibb	US	
+Entecavir tab 0.5mg	培力	衛部藥製 059258			Y	1060609	BeSaNo tab 0.5mg	培力	Taiwan	
 Entecavir tab 1mg	永信	衛部藥製 058334		Y		1020904	Baraclude tab 1mg	Bristol-Myers Squibb	US	
 Entecavir tab 1mg	中國化學	衛署藥製 057856			Y	1010925	Envir tab 0.5mg	中國化學	Taiwan	
 Entecavir tab 1mg	勝群	衛部藥製 058600			Y	1030724	Bocanon tab 0.5mg	五洲	Taiwan	
 Entecavir tab 1mg	生達	衛部藥製 058541			Y	1030729	Hepuri tab 0.5mg	生達	Taiwan	
 Entecavir tab 1mg	瑞士	衛部藥製 059378	Y			1050929	Baraclude tab 1mg	Bristol-Myers Squibb	Taiwan	
 Entecavir tab 1mg	健亞	衛部藥製 059253			Y	1041215	Liverpro tab 0.5mg	健亞	Taiwan	
+Eplerenone tab 50mg	健喬信元	衛部藥製 059658		Y		1050502	Inspra tab 50mg	Pfizer Pharmaceuticals LLC	Puerto Rico	
 Escitalopram Oral soln 1mg/ml	晟德	衛署藥製 056725		Y		1001004	Lexapro Oral soln 1mg/ml	Froest	US	
 Escitalopram tab 10mg	中國化學	衛署藥製 049629		Y		970815	Lexapro tab 10mg	H. Lundbeck A/S 	Denmark	
 Escitalopram tab 10mg	五洲	衛署藥製 054980		Y		990310	Lexapro tab 10mg	H. Lundbeck A/S	Denmark	
@@ -533,12 +537,13 @@ Escitalopram tab 20mg	鼎泰	衛署藥製 048661		Y		960209	Cipralex tab 20mg	H.
 Escitalopram tab 20mg	東竹	衛署藥製 054860			Y	981105	Epram tab 10mg	健亞	Taiwan	
 Esomeprazole powder for inj. 40mg	永信	衛部藥製 058196		Y		1050325	Nexium powder for inj. 40mg	AstraZeneca AB	Sweden	
 Esomeprazole tab 40mg	景德	衛部藥製 058102		Y		1020403	Nexium tab 40mg	AstraZeneca AB	Sweden	
+Esomeprazole tab 40mg	生達二廠	衛部藥製 059693		Y		1051223	Nexium tab 40mg	AstraZeneca AB	Sweden	
 Esomeprazole EC tab 40mg	台裕	衛部藥製 059243		Y		1050519	Nexium tab 40mg	AstraZeneca AB	Sweden	
 Eszopiclone tab 1mg	瑩碩	衛署藥製 057350			Y	1010710	Runesda-S tab 2mg	聯亞	Taiwan	
 Eszopiclone tab 3mg	瑩碩	衛署藥製 057349			Y	1010626	Eszopiclone tab 2mg	聯亞	Taiwan	
-Etodolac SR tab 400mg	正和	衛署藥製 057966		Y		1011105	LACOXA SR tab 400 mg	台灣東洋	Taiwan	
-Etodolac SR tab 400mg	恆生	衛署藥製 057976		Y		1011226	Lacoxa tab 400 mg	台灣東洋	Taiwan	
-Etodolac SR tab 400mg	翰諾士	衛署藥製 057361		Y		1000324	Lacoxa SR tab 400mg	台灣東洋	Taiwan	
+Etodolac SR tab 400mg	正和	衛署藥製 057966		Y		1011105	LACOXA SR tab 400 mg	臺灣東洋	Taiwan	
+Etodolac SR tab 400mg	恆生	衛署藥製 057976		Y		1011226	Lacoxa tab 400 mg	臺灣東洋	Taiwan	
+Etodolac SR tab 400mg	翰諾士	衛署藥製 057361		Y		1000324	Lacoxa SR tab 400mg	臺灣東洋	Taiwan	
 Etodolac XL tab 500mg	生達	衛署藥製 046385		Y		921112	Lodine XL tab 500mg	Wyeth-Ayerst Laboratories	Taiwan	
 Etoricoxib tab 60mg	瑞安	衛部藥製 058391		Y		1030120	Arcoxia tab 60mg	Merck & Co.	US	
 Etoricoxib tab 60mg	生達二廠	衛部藥製 059245		Y		1050516	Arcoxia tab 60mg	Frosst Iberica SA	Spain	
@@ -613,7 +618,7 @@ Fenofibrate tab 160mg	瑩碩	衛署藥製 050087		Y		980331	Lipanthyl tab 160mg	
 Fentanyl patch 25 μg/h	管管局	衛署藥輸 024889		Y		970616	Durogesic TTS 25μg/h	Janssen	Belgium	
 Fentanyl patch 50 μg/h	管管局	衛署藥製 051717			Y	981029	Fentanyl patch 25 μg/hr "NBCD"	德山	Taiwan	
 Fexofenadine tab 60mg	中國化學	衛署藥製 049113		Y		960807	Allegra tab 60mg	Aventis	US	
-Fexofenadine tab 60mg	井田	衛署藥製 050874		Ｙ		980814	Allegra tab 60mg	Sanofi-Aventis	US	
+Fexofenadine tab 60mg	井田	衛署藥製 050874		Y		980814	Allegra tab 60mg	Sanofi-Aventis	US	
 Fexofenadine tab 60mg	元宙	衛署藥製 047890		Y		950308	Allegra tab 60mg	Aventis	US	
 Fexofenadine tab 60mg	生達	衛署藥製 055954		Y		1000125	Allegra tab 60mg	Sanofi-Aventis	US	
 Fexofenadine tab 60mg	衛達	衛署藥製 057297		Y		991013	Allegra tab 60mg	Sanofi-Aventis	US	
@@ -624,7 +629,7 @@ Fexofenadine tab 180mg	大豐	衛署藥製 055916		Y		990628	Allegra tab 180mg	S
 Fexofenadine tab 180mg	世育	衛署藥製 049096		Y		960605	Allegra tab 180mg	Aventis	US	
 Fexofenadine tab 180mg	永信	衛署藥製 056751		Y		1000330	Allegra tab 180mg	Sanofi-Aventis	US	
 Fexofenadine tab 180mg	羅得	衛署藥製 056789		Y		991220	Allegra tab 180mg	Sanofi-Aventis	US	
-Fexofenadine/ Pseudoeph  SR tab 60mg/120mg	中國化學	衛署藥製 050424		Ｙ		980721	Allegra-D 12H ER tab 60mg/120mg	Aventis 	US	
+Fexofenadine/ Pseudoeph  SR tab 60mg/120mg	中國化學	衛署藥製 050424		Y		980721	Allegra-D 12H ER tab 60mg/120mg	Aventis 	US	
 Finasteride tab 1mg	中國化學	衛部藥製 058161			Y	1021022	Fynasid  tab 5mg	中國化學	Taiwan	
 Finasteride tab 1mg	永信	衛署藥製 049175			Y	961029	Finaride tab 5mg	永信台中幼獅	Taiwan	
 Finasteride tab 1mg	順生	衛署藥製 047277			Y	940510	Finasteride tab 5mg	順生	Taiwan	
@@ -659,7 +664,7 @@ Fluoxetine cap 10mg	順生	衛署藥製 041936			Y	870211	Serotec cap 20mg	順�
 Fluoxetine cap 10mg	聯邦	衛署藥製 044042			Y	891011	Fluxen cap 10mg	聯邦	Taiwan	
 Fluoxetine cap 20mg	大豐	衛署藥製 043937		Y		890824	Prozac cap 20mg	Eli Lilly	Taiwan	
 Fluoxetine cap 20mg	中國化學	衛署藥製 042837		Y		880202	Prozac cap 20mg	Eli Lilly	Taiwan	
-Fluoxetine cap 20mg	台灣東洋	衛署藥製 042570		Y		870609	Prozac cap 20mg	Eli Lilly	US	
+Fluoxetine cap 20mg	臺灣東洋	衛署藥製 042570		Y		870609	Prozac cap 20mg	Eli Lilly	US	
 Fluoxetine cap 20mg	永信	衛署藥製 043523		Y		890111	Prozac cap 20mg	Eli Lilly	Taiwan	
 Fluoxetine cap 20mg	生達	衛署藥製 042977		Y		880430	Prozac cap 20mg	Eli Lilly	Taiwan	
 Fluoxetine cap 20mg	信元	衛署藥製 041338		Y		860506	Prozac cap 20mg	Eli Lilly	Taiwan	
@@ -686,7 +691,7 @@ Formoterol fumarate tab 40mg	永信	衛署藥製 048646		Y		960313	Atock tab 40m
 Fosinopril tab 10mg	生達	衛署藥製 047002		Y		940128	Monopril tab 10mg	Bristol-Myers Squibb 	Australia	
 Fosinopril tab 10mg	萬菱	衛署藥製 046199		Y		921210	Monopril tab 10mg	Bristol-Myers Squibb 	Australia	
 Gabapentin cap 100mg	吉如	衛署藥製 049638			Y	970602	Gatine cap 300mg	瑞安	Taiwan	
-Gabapentin cap 100mg	南光	衛署藥製 051524			Ｙ	980818	Carbatin cap 300mg	南光	Taiwan	
+Gabapentin cap 100mg	南光	衛署藥製 051524			Y	980818	Carbatin cap 300mg	南光	Taiwan	
 Gabapentin cap 300mg	吉如	衛署藥製 047477		Y		910822	Neuronitin cap 300mg	Parke-Davis	Pureo	
 Gabapentin cap 300mg	南光	衛署藥製 049465		Y		970513	Neuronitin cap 300mg	Pfizer	Puerto Rico	
 Gabapentin cap 300mg	瑞士	衛署藥製 048357		Y		950720	Neuronitin cap 300mg	Parke-Davis	Puerto Rico	
@@ -721,7 +726,7 @@ Glimepiride tab 2mg	永信	衛署藥製 048121		Y		950704	Amaryl tab 2mg	Aventis
 Glimepiride tab 2mg	生達	衛署藥製 046640		Y		930609	Amaryl tab 2mg	Aventis Dentschland 	Germany	
 Glimepiride tab 2mg	信東	衛署藥製 046766		Y		930504	Amaryl tab 2mg	Aventis Dentschland 	Germany	
 Glimepiride tab 2mg	倍斯特	衛署藥製 047790		Y		941111	Amaryl tab 2mg	Aventis	Germany	
-Glimepiride tab 2mg	景?	衛署藥製 047485		Y		940727	Amaryl tab 2mg	Hoechst AG	Germany	
+Glimepiride tab 2mg	景徳	衛署藥製 047485		Y		940727	Amaryl tab 2mg	Hoechst AG	Germany	
 Glimepiride tab 2mg	華興	衛署藥製 048846		Y		960117	Amaryl tab 2mg	Aventis 	Germany	
 Glimepiride tab 2mg	瑞士	衛署藥製 048068		Y		941214	Amaryl tab 2mg	Aventis	Germany	
 Glimepiride tab 2mg	壽元	衛署藥製 048560		Y		960119	Amaryl tab 2mg	Aventis 	Germany	
@@ -737,9 +742,10 @@ Glyburide/ Metformin tab 2.5/500mg	友華	衛署藥製 046732		Y		931001	Glucova
 Glyburide/Metformin tab 5/500mg	友華	衛署藥製 046733			Y	1010301	GlucoMet tab 5mg/500mg	友霖	Taiwan	
 Granisetron tab 1mg	南光	衛署藥製 055953		Y		1000126	Kytril tab 1mg	F.Hoffmann-La Roche	Switzerland	
 Granisetron tab 1mg	永信	衛部藥製 059052		Y		1041202	Kytril tab 1mg	F.Hoffmann-La Roche Ltd.	Switzerland	
-Imatinib tab 100mg	台灣東洋	衛部藥製 058288		Y		1021030	Glivec tab 100mg	Norvartis Pharna Stein AG	Switzerland	
+Imatinib tab 100mg	臺灣東洋	衛部藥製 058288		Y		1021030	Glivec tab 100mg	Norvartis Pharna Stein AG	Switzerland	
 Imatinib tab 100mg	中國化學	衛署藥製 057915		Y		1020402	Glivec tab 100mg	Norvartis Pharna Stein AG	Switzerland	
 Imatinib tab 100mg	艾威群	衛部藥輸 026613		Y		1021030	Glivec tab 100mg	Norvartis Pharna Stein AG	Switzerland	
+Imatinib tab 100mg	杏輝	衛部藥製 059680		Y		1051223	Glivec tab 100mg	Norvartis Pharna Stein AG	Switzerland	
 Imatinib micor-tab cap 100mg	萬菱	衛部藥製 059272		Y		1040311	Glivec tab 100mg	Norvartis Pharna Stein AG	Switzerland	
 Irbesartan tab 150mg	中國化學	衛署藥製 056689		Y		1000818	Aprovel tab 150mg	Sanofi Winthrop 	France	
 Irbesartan tab 150mg	吉富	衛署藥輸 025342		Y		990615	Aproveltm tab 150mg	Sanofi Winthrop	France	
@@ -755,6 +761,8 @@ Irbesartan tab 300mg	壽元	衛署藥製 057821		Y		1020116	Aprovel  tab 300mg	S
 Irbesartan tab 300mg	中國化學	衛署藥製 057318			Y	1010705	Irbesartan tab 150mg	中國化學	Taiwan	
 Irbesartan tab 300mg	永勝	衛署藥製 057864		Y		1010312	Aprovel tab 300mg	Sanofi Winthrop Industrie	France	
 Irbesartan tab 300mg	優生	衛部藥製 059407		Y		1051124	Aprovel tab 300mg	Sanofi Winthrop Industrie	France	
+Irbesartan tab 300mg	品庠	衛部藥輸 026577		Y		1060531	Aprovel tab 300mg	Sanofi Winthrop Industrie	US	
+Ivabradine tab 5mg	生達二廠	衛部藥製 059709		Y		1051219	Coralan tab 5mg	Servier Industries Ltd	US	
 Ketoconazole tab 200mg	中美	衛署藥製 029316		Y		801204	Nizoral tab 200mg	Janssen	Taiwan	
 Ketoconazole tab 200mg	永信	衛署藥製 029730		Y		790106	Nizoral tab 200mg	Janssen	Taiwan	
 Ketoconazole tab 200mg	全福	衛署藥製 040663		Y		851029	Nizoral tab 200mg	Janssen	Belgium	
@@ -789,7 +797,7 @@ Lamotrigine ER tab 100mg	美時	衛部藥製 058556			Y	1030911	Lamofree ER tab 
 Lamotrigine tab 100mg	五洲	衛署藥製 045592		Y		920521	Lamictal tab 100mg	Wellcome	UK	
 Lamotrigine tab 100mg	景德	衛署藥製 047517	Y			940722	Lamictal tab 100mg	Glaxo	UK	
 Lamotrigine tab 100mg	信東	衛署藥製 049133			Y	960831	Lamta tab 50mg	信東	Taiwan	
-Lamotrigine tab 50mg	吉富	衛署藥輸 025078		Ｙ		980703	Lamictal tab 50mg	Glaxo 	UK	
+Lamotrigine tab 50mg	吉富	衛署藥輸 025078		Y		980703	Lamictal tab 50mg	Glaxo 	UK	
 Lamotrigine tab 50mg	信東	衛署藥製 047400		Y		930831	Lamictal tab 50mg	Glaxo wellcome	UK	
 Lamotrigine tab 50mg	景德	衛署藥製 047568	Y			940804	Lamictal tab 50mg	Glaxo	UK	
 Lamotrigine tab 50mg	五洲	衛署藥製 047079			Y	940117	Lamogin tab 100mg	五洲	Taiwan	
@@ -803,6 +811,10 @@ Lansoprazole cap 30mg	西德有機	衛署藥製 047368		Y		940602	Takepron cap 3
 Lansoprazole cap 30mg	南光	衛署藥製 044261		Y		900130	Takepron cap 30mg	Takeda	Japan	
 Lansoprazole cap 30mg	衛達	衛署藥製 055563		Y		990921	Takepron cap 30mg	Takeda 	Japan	
 Leflunomide tab 10mg	美時	衛署藥製 048558			Y	960119	Arheuma tab 20mg	美時	Taiwan	
+Lenalidomide cap 5mg	臺灣東洋	衛部藥製 059669			Y	1051228	Lenalidomide cap 15mg	臺灣東洋中壢廠	Taiwan	
+Lenalidomide cap 10mg	臺灣東洋	衛部藥製 059668			Y	1051228	Lenalidomide cap 15mg	臺灣東洋中壢廠	Taiwan	
+Lenalidomide cap 15mg	臺灣東洋	衛部藥製 059663		Y		1051111	Revlimid cap 15mg	Celegene International Sarl	Switzerland	
+Lenalidomide cap 20mg	臺灣東洋	衛部藥製 059664		Y		1041001	Revlimid cap 25mg	Celegene International Sarl	Switzerland	
 Lercanidipine tab 10mg	中國化學	衛署藥製 056780		Y		1010105	Zanidip tab 10mg	RECORDATI S.P.A	Italy	
 Lercanidipine tab 10mg	滎洋	衛署藥製 049307		Y		970130	Zanidip tab 10mg	Recordati	Italy	
 Lercanidipine tab 10mg	健喬信元	衛部藥製 058310		Y		1030522	Zanidip tab 10mg	Recordati	Italy	
@@ -814,7 +826,7 @@ Levetiracetam tab 500mg	吉富	衛署藥輸 025712		Y		990811	Keppra  tab 500mg	
 Levetiracetam tab 500mg	南光	衛署藥製 049899		Y		960109	Keppra tab 500mg	UCB	Belgium	
 Levetiracetam tab 500mg	瑞士	衛署藥製 055283		Y		990324	Keppra tab 500mg	UCB 	Belgium	
 Levetiracetam tab 500mg	萬菱	衛署藥製 055928		Y		981109	Keppra tab 500mg	UCB 	Belgium	
-Levetiracetam tab 500mg	懷特	衛署藥製 051731		Ｙ		980824	Keppra tab 500mg	UCB 	Belgium	
+Levetiracetam tab 500mg	懷特	衛署藥製 051731		Y		980824	Keppra tab 500mg	UCB 	Belgium	
 Levetiracetam XR tab 500 mg	南光	衛署藥製 057298			Y	1010201	Nobelin XR tab 750 mg	南光	Taiwan	
 Levetiracetam XR tab 750mg	南光	衛署藥製 056736		Y		1001013	Keppra XR tab 750mg	UCB	US	
 Levocetirizine  tab 5mg	中生生技	衛署藥製 055945		Y		1000208	Xyzal tab 5mg	UCB 	Switzerland	
@@ -826,10 +838,10 @@ Levocetirizine tab 5mg	生達	衛署藥製 049833		Y		971114	Xyzal tab 5mg	UCB 	
 Levocetirizine tab 5mg	南光	衛署藥製 052354		Y		980223	Xyzal tab 5mg	UCB 	Switzerland	
 Levocetirizine tab 5mg	景德	衛署藥製 056794		Y		1010118	Xyzal tab 5mg	UCB Farchim SA	Switzerland	
 Levocetirizine tab 5mg	華興	衛署藥製 052588		Y		981026	Xyzal tab 5mg	UCB	Switzerland	
-Levocetirizine tab 5mg	瑪科隆	衛署藥製 051203		Ｙ		980922	Xyzal tab 5mg	UCB	Switzerland	
+Levocetirizine tab 5mg	瑪科隆	衛署藥製 051203		Y		980922	Xyzal tab 5mg	UCB	Switzerland	
 Levofloxacin (hemihydrate) tab 100mg	瑞士	衛部藥製 058044			Y	1020717	Lflocin  tab 500mg	瑞士	Taiwan	
 Levofloxacin infusion 5mg/ml	平廷	衛署藥製 055545		Y		1030729	Cravit IV infusion 5mg/ml	健亞	Taiwan	
-Levofloxacin IV soln for Infusion 5mg/ml	永信	衛署藥製 056750		Ｙ		1010813	CRAVIT IV soln for Infusion 5mg/ml	Sanofi-Aventis 	Germany	
+Levofloxacin IV soln for Infusion 5mg/ml	永信	衛署藥製 056750		Y		1010813	CRAVIT IV soln for Infusion 5mg/ml	Sanofi-Aventis 	Germany	
 Levofloxacin tab 100mg	中國化學	衛署藥製 048694		Y		960327	Cravit tab 100mg	台灣第一	Taiwan	
 Levofloxacin tab 100mg	萬菱	衛署藥製 046634		Y		931015	Cravit tab 100mg	台灣第一	Taiwan	
 Levofloxacin tab 100mg	台灣第一	衛署藥製 044373			Y	900227	Cravit tab 100mg	Daiichi	Japan	
@@ -884,7 +896,7 @@ Losartan tab 50mg	井田	衛署藥製 055558			Y	991012	Losater tab 100mg "Chint
 Losartan tab 50mg	台灣諾華	衛署藥輸 026048		Y		981216	Cozaar tab 50mg	MSD	UK	
 Losartan tab 100mg	井田	衛署藥製 052436		Y		981203	Cozaar tab 100mg	MSD	UK	
 Losartan/ Hydrochlorothiazide tab 50mg/12.5mg	中國化學	衛署藥製 048990		Y		951205	Hyzaar tab 50mg/12.5mg	MSD	UK	
-Losartan/ Hydrochlorothiazide tab 50mg/12.5mg	生達	衛署藥製 050431		Ｙ		980810	Hyzaar tab 50mg/12.5mg	MSD	UK	
+Losartan/ Hydrochlorothiazide tab 50mg/12.5mg	生達	衛署藥製 050431		Y		980810	Hyzaar tab 50mg/12.5mg	MSD	UK	
 Losartan/ Hydrochlorothiazide tab 50mg/12.5mg	吉富	衛署藥輸 025501		Y		1000321	Hyzaar tab 50mg/12.5mg	MSD	UK	
 Losartan/ Hydrochlorothiazide tab 50mg/12.5mg	鼎豐宇	衛署藥製 052568		Y		981005	Hyzaar tab 50mg/12.5mg	MSD	UK	
 Losartan/ Hydrochlorothiazide tab 50mg/12.5mg	榮民	衛署藥製 057116		Y		1000406	Hyzaar tab 50mg/12.5mg	MSD	UK	
@@ -935,7 +947,7 @@ Mirtazapine O.D. tab 30 mg	鴻汶	衛署藥製 056800		Y		1000915	Remeron Soltab
 Mirtazapine OD tab 30mg	中國化學	衛署藥製 057284		Y		1010103	Remeron O.D. tab 30mg	CIMA Labs Inc.	US	
 Mirtazapine oral dis tab 15mg	信東	衛署藥製 056775			Y	1000617	Mirtazapine oral dis tab 30mg	信東	Taiwan	
 Mirtazapine oral dis tab 30mg	六雅	衛署藥製 049656		Y		970229	Remeron Soltab 30mg	Cima	US	
-Mirtazapine oral dis tab 30mg	信東	衛署藥製 055012		Ｙ		980910	Remeron Soltab 30mg	N.V. Organon	Netherland	
+Mirtazapine oral dis tab 30mg	信東	衛署藥製 055012		Y		980910	Remeron Soltab 30mg	N.V. Organon	Netherland	
 Mirtazapine oral dis tab 30mg	永信	衛署藥製 049634			Y	970819	Meronin  disint tab 15mg	永信	Taiwan	
 Mirtazapine tab 15mg	南光	衛署藥製 049240			Y	961217	Smilon tab 30mg	南光	Taiwan	
 Mirtazapine tab 15mg	新瑞	衛署藥製 050016			Y	970925	Minivane tab 30mg	瑞士	Taiwan	
@@ -945,7 +957,7 @@ Mirtazapine tab 30mg	南光	衛署藥製 048334		Y		951018	Remeron tab 30mg	N.V.
 Mirtazapine tab 30mg	景德	衛署藥製 049078		Y		960919	Remeron tab 30mg	N.V. Organon	Netherland	
 Mirtazapine tab 30mg	華美歐	衛署藥輸 024530		Y		950509	Remeron tab 30mg	N.V. Organon	Netherland	
 Mirtazapine tab 30mg	瑞士	衛署藥製 049020		Y		960831	Remeron tab 30mg	N.V. Organon	Netherland	
-Mirtazapine tab 30mg	?豐宇	衛署藥製 048633		Y		960104	Remeron tab 30mg	N.V. Organon	Netherland	
+Mirtazapine tab 30mg	鼑豐宇	衛署藥製 048633		Y		960104	Remeron tab 30mg	N.V. Organon	Netherland	
 Mirtazapine tab 30mg	聯邦	衛署藥製 048747		Y		950623	Remeron tab 30mg	N.V. Organon	Netherland	
 Mirtazapine tab 45mg	新瑞	衛署藥製 049922			Y	970923	Minivane tab 30mg	瑞士	Taiwan	
 Misoprostol tab 200mcg	優良	衛署藥製 043707		Y		881231	Cytotec tab 200mg	Searle Pharmaceuticals	UK	
@@ -968,25 +980,25 @@ Montelukast tab 5mg	信東	衛署藥製 049278		Y		960904	Singulair tab 5mg	MSD	
 Montelukast tab 5mg	景德	衛署藥製 055536		Y		990506	Singulair tab 10mg	MSD	UK	
 Montelukast tab 5mg	榮民	衛署藥製 054972		Y		990414	Singulair tab 5mg	MSD	UK	
 Montelukast tab 5mg	瑩碩	衛署藥製 047702		Y		941130	Singulair tab 5mg	MSD	UK	
-Mosapride tab 5mg	十全	衛署藥製 055572		Y		990519	Mopride tab 5mg	台灣東洋	Taiwan	
-Mosapride tab 5mg	中國化學	衛署藥製 055584		Y		990916	Mopride tab 5mg	台灣東洋	Taiwan	
-Mosapride tab 5mg	中生	衛署藥製 055571		Y		990908	Mopride tab 5mg	台灣東洋	Taiwan	
-Mosapride tab 5mg	永信	衛署藥製 055566		Y		981103	Mopride tab 5mg	台灣東洋	Taiwan	
+Mosapride tab 5mg	十全	衛署藥製 055572		Y		990519	Mopride tab 5mg	臺灣東洋	Taiwan	
+Mosapride tab 5mg	中國化學	衛署藥製 055584		Y		990916	Mopride tab 5mg	臺灣東洋	Taiwan	
+Mosapride tab 5mg	中生	衛署藥製 055571		Y		990908	Mopride tab 5mg	臺灣東洋	Taiwan	
+Mosapride tab 5mg	永信	衛署藥製 055566		Y		981103	Mopride tab 5mg	臺灣東洋	Taiwan	
 Mosapride tab 5mg	生達	衛署藥製 057254		Y		1000317	Gasmotin tab 5mg	大日本住友	Japan	
 Mosapride tab 5mg	信東	衛署藥製 055990	Y			1000308	Gasmotin tab 5mg	大日本住友	Japan	
-Mosapride tab 5mg	晟德	衛署藥製 055570		Y		991124	Mopridetab 5mg	台灣東洋	Taiwan	
-Mosapride tab 5mg	華興	衛署藥製 055565		Y		980617	Mopride tab 5mg	台灣東洋	Taiwan	
-Mosapride tab 5mg	瑞士	衛署藥製 055568		Y		990607	Mopride tab 5mg	台灣東洋	Taiwan	
-Mosapride tab 5mg	瑞安	衛署藥製 055567		Y		990125	Mopride tab 5mg	台灣東洋	Taiwan	
-Mosapride tab 5mg	瑪科隆	衛署藥製 057104		Y		1000406	Mopride tab 5mg	台灣東洋	Taiwan	
-Mosapride tab 5mg	翰諾士	衛署藥製 055569		Y		991006	Mopride tab 5mg	台灣東洋	Taiwan	
-Mosapride tab 5mg	優生	衛署藥製 057865		Y		1011217	Mopride tab 5 mg 	台灣東洋	Taiwan	
+Mosapride tab 5mg	晟德	衛署藥製 055570		Y		991124	Mopridetab 5mg	臺灣東洋	Taiwan	
+Mosapride tab 5mg	華興	衛署藥製 055565		Y		980617	Mopride tab 5mg	臺灣東洋	Taiwan	
+Mosapride tab 5mg	瑞士	衛署藥製 055568		Y		990607	Mopride tab 5mg	臺灣東洋	Taiwan	
+Mosapride tab 5mg	瑞安	衛署藥製 055567		Y		990125	Mopride tab 5mg	臺灣東洋	Taiwan	
+Mosapride tab 5mg	瑪科隆	衛署藥製 057104		Y		1000406	Mopride tab 5mg	臺灣東洋	Taiwan	
+Mosapride tab 5mg	翰諾士	衛署藥製 055569		Y		991006	Mopride tab 5mg	臺灣東洋	Taiwan	
+Mosapride tab 5mg	優生	衛署藥製 057865		Y		1011217	Mopride tab 5 mg 	臺灣東洋	Taiwan	
 Mosapride tab 5mg	健喬信元	衛部藥製 059379		Y		1050706	Gasmotin tab 5mg	Dianippon Sumitomo Pharma Corp.	Japan	
 Moxifloxacin tab 400mg	信東	衛署藥製 057910		Y		1011211	Avelox tab 400 mg	Bayer HealthCare AG	Germany	
 Moxifloxacin tab 400mg	勝群	衛署藥製 057421		Y		1010627	Avelox tab 400 mg	Bayer HealthCare AG	Germany	
 Moxifloxacin tab 400mg	瑩碩	衛署藥製 057137		Y		1000127	Avelox tab 400mg	Bayer	Germany	
 Mycophenolate cap 250mg	友華	衛署藥製 050154		Y		980416	CellCept cap 250mg	Hoffmann-La Roche	Switzerland	
-Mycophenolate cap 250mg	健亞	衛署藥製 050866		Ｙ		980806	Cellcept cap 250mg	Roches 	Italy	
+Mycophenolate cap 250mg	健亞	衛署藥製 050866		Y		980806	Cellcept cap 250mg	Roches 	Italy	
 Nabumetone tab 500mg	中國化學	衛署藥製 044777		Y		901205	Relifex tab 500mg	Smithkline Beecham	UK	
 Nabumetone tab 500mg	永信	衛署藥製 044542		Y		900620	Relifex tab 500mg	Smithkline Beecham	UK	
 Nabumetone tab 500mg	生達	衛署藥製 043305		Y		880929	Relifex tab 500mg	SmithKline Beecham	UK	
@@ -1088,6 +1100,7 @@ Omeprazole cap 20mg	南光	衛署藥製 044270			Y	900131	Okwe cap 40mg	南光	T
 Omeprazole tab 20mg	中國生化	衛署藥製 044481		Y		900518	Losec cap 20mg	Astra	Sweden	
 Ondansetron tab 8mg	吉富	衛署藥輸 024856		Y		970523	Zofran tab 8mg	Glaxo	UK	
 Oseltamivir  cap 75mg	羅氏	衛署藥輸 025285			Y	991001	Tamiflu cap 75mg	F. Hoffmann-La Roche	Switzerland	
+Otilonium tab 40mg	永信	衛部藥製 059647		Y		1060105	Catilon tab 40mg	臺灣東洋六堵廠	Taiwan	
 Oxatomide tab 30mg	永信	衛署藥製 044469		Y		900419	Tinset tab 30mg	嬌生	Taiwan	
 Oxatomide tab 30mg	信東	衛署藥製 044807		Y		901212	Tinset tab 30mg	嬌生	Taiwan	
 Oxcarbazepine susp 60mg/ml	晟德	衛署藥製 052464		Y		980623	Trileptal Oral Susp 60mg/ml	Novartis	France	
@@ -1103,7 +1116,7 @@ Pantoprazole GR tab 40 mg	井田	衛署藥製 057351		Y		1010717	Pantoloc tab 40
 Pantoprazole GR tab 40 mg	生達二廠	衛部藥製 059406		Y		1050712	Pantoloc GR tab 40mg	Nycomed Oranienburg GmbH	Germany	
 Paricalcitol cap 1mcg	美時	衛部藥製 058836			Y	1040716	Nephetol soft cap 4mcg	美時	Taiwan	
 Paricalcitol cap 2mcg	美時	衛部藥製 058963			Y	1040716	Nephetol soft cap 4mcg	美時	Taiwan	
-Paricalcitol cap 4mcg	美時	衛部藥製 058254		Y		1020819	Zemplar Cap 4?g	Abbott Laboratories	US	
+Paricalcitol cap 4mcg	美時	衛部藥製 058254		Y		1020819	Zemplar Cap 4µg	Abbott Laboratories	US	
 Paroxetine tab 20mg	十全	衛署藥製 045581		Y		920507	Seroxat tab 20mg	Smithkline Beecham	UK	
 Paroxetine tab 20mg	中國化學	衛署藥製 045822		Y		920623	Seroxat tab 20mg	Smithkline Beecham	UK	
 Paroxetine tab 20mg	生達	衛署藥製 044622		Y		900820	Seroxat tab 20mg	Smithkline Beecham	UK	
@@ -1181,6 +1194,7 @@ Pravastatin tab 5mg	信東	衛署藥製 045469			Y	930413	Pratin tab 10mg	信東
 Pregabalin hard cap 75mg	生達	衛部藥製 058292		Y		1030502	Lyrica hard cap 75mg	Pfizer	Germany	
 Pregabalin hard cap 75mg	南光	衛部藥製 059068			Y	1041208	Lyrica hard cap 75mg	Pfizer Manufacturing Deutshland GmbH	Germany	
 Pregabalin hard cap 75mg	永信	衛部藥製 059388		Y		1050802	Lyrica hard cap 75mg	Pfizer Manufacturing Deutshland GmbH	Germany	
+Pregabalin hard cap 75mg	營養家	衛部藥製 059640		Y		1050825	Lyrica hard cap 75mg	Pfizer Manufacturing Deutshland GmbH	Germany	
 Pregabalin hard cap 150mg	永信	衛部藥製 059416			Y	1051230	Phudialin hard cap 75mg	永信台中幼獅廠	Taiwan	
 Procaterol tab 25mcg	台灣道斯	衛署藥製 047482		Y		940809	Meptin-mini tab 25ug 	大塚	Taiwan	
 Procaterol tab 25mcg	生達	衛署藥製 045416		Y		920305	Meptin-mini tab 25mcg	OtsU. K.a  	Taiwan	
@@ -1212,7 +1226,7 @@ Quetiapine tab 100mg	瑞士	衛署藥製 049653			Y	970828	Calm-EZ tab 200mg	瑞
 Quetiapine tab 100mg	瑞安	衛署藥製 057850			Y	1020114	Quepine  tab 200mg	瑞安	Taiwan	
 Quetiapine tab 100mg	聯邦	衛署藥製 049496			Y	970523	Utapine tab 200mg	聯邦	Taiwan	
 Quetiapine tab 100mg	台裕	衛署藥製 057829		Y		1010601	Seroquel tab 100mg	AstraZeneca UK Limited	UK	
-Quetiapine tab 200mg	五洲	衛署藥製 055245		Ｙ		980717	Seroquel tab 200mg	Astrazeneca	UK	
+Quetiapine tab 200mg	五洲	衛署藥製 055245		Y		980717	Seroquel tab 200mg	Astrazeneca	UK	
 Quetiapine tab 200mg	永信	衛署藥製 049741		Y		970715	Seroquel tab 200mg	AstraZeneca	UK	
 Quetiapine tab 200mg	東竹	衛署藥製 057138		Y		990812	Seroquel tab 200mg	AstraZeneca	UK	
 Quetiapine tab 200mg	景德	衛署藥製 052446		Y		981207	Seroquel tab 200mg	AstraZeneca	UK	
@@ -1275,7 +1289,7 @@ Repaglinide tab 1mg	景德	衛署藥製 049144		Y		960719	NovoNorm tab 1mg	Boehr
 Repaglinide tab 1mg	優生	衛署藥製 046620		Y		930303	NovoNorm tab 1mg	Boehringer	Germany	
 Repaglinide tab 2mg	優生	衛署藥製 049532			Y	970609	Supernide tab 1mg	優生	Taiwan	
 Repaglinide/ Metformin tab 1mg/500mg	瑩碩	衛署藥製 057860		Y		1020116	PrandiMet tab 1/500mg	Novo Nordisk 	Sweden	
-Ribavirin cap 200mg	台灣東洋	衛署藥製 048027		Y		930812	Robetol cap 200mg	Schering	Puerto Rico	
+Ribavirin cap 200mg	臺灣東洋	衛署藥製 048027		Y		930812	Robetol cap 200mg	Schering	Puerto Rico	
 Ribavirin cap 200mg	吉富	衛署藥輸 025232		Y		990415	Rebetol cap 200mg	Schering-Plough	Puerto Rico	
 Ribavirin cap 200mg	格利	衛署藥製 048152		Y		911025	Rebetol cap 200mg	Schering-Plough	Puerto Rico	
 Riluzole tab 50mg	勝寶	衛署藥製 044485		Y		900110	Rilutek tab 50mg	Rhone-Poulene Rorer	Ireland	
@@ -1319,6 +1333,8 @@ Rosuvastatin tab 5mg	健亞	衛部藥製 058622			Y	1030619	Rotlip tab 10mg	健�
 Rosuvastatin tab 5mg	中國化學	衛署藥製 057843			Y	1020104	Rosuvastatin tab 10mg	中國化學	Taiwan	
 Rosuvastatin tab 5mg	生達二廠	衛部藥製 059266			Y	1041105	Rostatin tab 10mg	生達二廠	Taiwan	
 Rosuvastatin tab 5mg	中生生技	衛部藥製 059240	Y			1041230	Crestor tab 5mg	IPR Pharmaceuticals Inc Canovanas Plant	Puerto Rico	
+Rosuvastatin tab 5mg	十全	衛部藥製 059652			Y	1041029	Rosulator tab 10mg	十全	Taiwan	
+Rosuvastatin tab 5mg	正和	衛部藥製 059649			Y	1060125	Rosulip tab 10mg	正和新營廠	Taiwan	
 Rosuvastatin tab 10mg	健亞	衛署藥製 057130		Y		1010229	Crestor tab 10mg	IPR Pharmaceutical Inc.	Puerto Rico	
 Rosuvastatin tab 10mg	永信	衛部藥製 058291		Y		1030312	Crestor tab 10mg	IPR Pharmaceutical Inc.	Puerto Rico	
 Rosuvastatin tab 10mg	中國化學	衛署藥製 057802		Y		1011024	Crestor tab 10mg	IPR Pharmaceutical Inc.	Puerto Rico	
@@ -1372,6 +1388,8 @@ Sildenafil tab 100mg	永信	衛署藥製 057975		Y		1020403	Viagra tab 100mg	Pfi
 Sildenafil tab 100mg	健亞	衛部藥製 059273		Y		1041002	Viagra tab 100mg	Pfizer Australia Pty Limited	Australia	
 Sildenafil tab 100mg	信東	衛部藥製 059310		Y		1051006	Viagra tab 100mg	Pfizer Australia Pty Limited	Australia	
 Sildenafil tab 100mg	中國化學	衛部藥製 059280		Y		1050511	Viagra tab 100mg	Pfizer Australia Pty Limited	Australia	
+Sildenafil tab 100mg	杏輝	衛部藥製 059703		Y		1050617	Viagra tab 100mg	Pfizer Australia Pty Limited	Australia	
+Sildenafil tab 100mg	優生	衛部藥製 059624		Y		1051227	Viagra tab 100mg	Pfizer Australia Pty Limited	Australia	
 Silodosin cap 2mg	健喬信元	衛署藥製 057812			Y	1020904	Urief Cap 4mg	健喬信元	Taiwan	
 Silodosin cap 4mg	生達	衛部藥製 059281		Y		1050725	Urief Cap 4mg	健喬信元	Taiwan	
 Silodosin cap 8mg	健喬信元	衛部藥製 058222			Y	1020222	Urief cap 4mg	健喬信元	Taiwan	
@@ -1409,11 +1427,12 @@ Sitagliptin tab 100mg	永信	衛部藥製 059308		Y		1050627	Januvia tab 100mg	M
 Sodium phenylbutyrate 500mg	旭能	衛部罕製 000014		Y		1020808	Buphenyl tab 500mg	Ucycled Pharma	US	
 Solifenacin succinate tab 5mg	生達	衛部藥製 058360		Y		1030616	Vesicare tab 5mg	Astellas Pharma Europe BV	Netherland	
 Sulbactam inj 0.5g/vial	中國化學	衛署藥製 054647		Y		990408	Maxtam Inj 500mg	東洋委託聯亞生技	Taiwan	
-Sulbactam inj 0.5g/vial	台灣東洋	衛署藥製 043869		Y		880212	Combactam inj 1g/vial	Pfizer	Germany	
-Sulbactam inj 0.5g/vial 	信東	衛署藥製 049090		Y		960912	Maxtam inj 0.5g/vial	台灣東洋	Taiwan	
+Sulbactam inj 0.5g/vial	臺灣東洋	衛署藥製 043869		Y		880212	Combactam inj 1g/vial	Pfizer	Germany	
+Sulbactam inj 0.5g/vial 	信東	衛署藥製 049090		Y		960912	Maxtam inj 0.5g/vial	臺灣東洋	Taiwan	
 Tadalafil tab 20mg	永信	衛部藥製 059252		Y		1050628	Cialis tab 20mg	Lilly Del Caribe Inc.	Pureto Rico	
-Tamsulosin cap 0.2mg	台灣山之內	衛署藥製 044296			Y	900212	Harnalidge cap 0.2mg	Yamanouchi	Japan	
 Tamsulosin OD tab 0.2mg	中國化學	衛署藥製 057948		Y		1020403	Harnalidge D tab 0.2mg	Astellas Tokai Co. Ltd	Japan	
+Tamsulosin cap 0.2mg	台灣山之內	衛署藥製 044296			Y	900212	Harnalidge cap 0.2mg	Yamanouchi	Japan	
+Tamsulosin SR OD tab 0.2mg	生達	衛部藥製 058548		Y		1031022	Harnalidge D SR OD tab 0.2mg	Asrellas Pharma Tech Co. Ltd. Yaizu Technology	Japan	
 Tamsulosin SR cap 0.2mg	中國化學	衛署藥製 047599		Y		940825	Harnalidge cap 0.2mg	Yamanouchi	Japan	
 Tamsulosin SR cap 0.2mg	生達	衛署藥製 046016		Y		920821	Harnalidge cap 0.2mg	Yamanouchi	Japan	
 Tamsulosin SR cap 0.2mg	信東	衛署藥製 050168		Y		970702	Harnalidge cap 0.2mg	Astellas Tokai	Japan	
@@ -1422,7 +1441,6 @@ Tamsulosin SR tab 0.2mg	貽丹	衛署藥製 049342		Y		970306	Harnalidge cap 0.2
 Tamsulosin SR tab 0.2mg	漢旭	衛署藥製 055576		Y		991201	Harnalidge D tab 0.2mg	Astellas	Japan	
 Tamsulosin SR tab 0.2mg	五洲	衛署藥製 047629		Y		940722	Harnalidge tab 0.2mg	Yamanouchi	Japan	
 Tamsulosin PR tab 0.4mg	瑩碩	衛部藥製 058817		Y		1040414	Harnalidge OCAS PR tab 0.4mg	Astellas Pharma Europe BV	Netherland	
-Tamsulosin SR OD tab 0.2mg	生達	衛部藥製 058548		Y		1031022	Harnalidge D SR OD tab 0.2mg	Asrellas Pharma Tech Co. Ltd. Yaizu Technology	Japan	
 Tegafur/ Uracil cap 100mg/224mg 	美時	衛署藥製 049563	Y			970512	UFT cap 100mg/224mg	Taiho	Japan	
 Telmisartan tab 40mg	中國化學	衛署藥製 056745		Y		1001031	Micardis tab 40mg	Boehringer Ingelheim Pharma Gmbh & Co.,KG	Germany	
 Temozolomide cap 20mg	美時	衛部藥製 058025		Y		1020715	Temodal cap 20mg	Orion 	Finland	
@@ -1430,6 +1448,7 @@ Temozolomide cap 100mg	美時	衛署藥製 056316	Y			991209	Temodal cap 100mg	O
 Temozolomide cap 140mg	美時	衛部藥製 059184			Y	1030716	Tamos cap 250mg	美時	Taiwan	
 Temozolomide cap 180mg	美時	衛部藥製 058372			Y	1030703	Tamos cap 250mg	美時	Taiwan	
 Tenofovir tab 300mg	生達二廠	衛部藥製 059621		Y		1051025	Viread tab 300mg	Patheon Inc	Canada	
+Tenofovir tab 300mg	法諾亞	衛部藥製 059704		Y		1050704	Viread tab 300mg	Patheon Inc	Canada	
 Tenoxicam inj 20mg	生達	衛署藥製 041684		Y		860320	Tilcotil inj 20mg	Roche	Switzerland	
 Tenoxicam tab 10mg	華興	衛署藥製 043736			Y	891113	Sutondin tab 10mg	華興	Taiwan	
 Tenoxicam tab 20mg	生達	衛署藥製 040517		Y		850813	Tilcotil tab 20mg	羅氏	Taiwan	
@@ -1448,7 +1467,7 @@ Terbinafine tab 250mg	杏輝	衛署藥製 045950		Y		920924	Lamisil tab 250mg	No
 Terbinafine tab 250mg	信東	衛署藥製 044682		Y		901015	Lamisil tab 250mg	Novartis	Switzerland	
 Terbinafine tab 250mg	南光	衛署藥製 044683		Y		901022	Lamisil tab 250mg	Novartis	Switzerland	
 Terbinafine tab 250mg	瑞士	衛署藥製 047091		Y		940303	Lamisil tab 250mg	Novartis 	UK	
-Thalidomide cap 50mg	美時	衛署藥製 057269		Y		990817	Thado cap 50mg	台灣東洋	Taiwan	
+Thalidomide cap 50mg	美時	衛署藥製 057269		Y		990817	Thado cap 50mg	臺灣東洋	Taiwan	
 Tiagabine tab 10mg	信東	衛署藥製 049289		Y		961224	Gabitril tab 10mg	Sanofi Winthrop	UK	
 Tiagabine tab 5mg	信東	衛署藥製 049395			Y	970414	Tiabine tab 10mg	信東	Taiwan	
 Tigecycline lyophilized powder for Inj. 50mg	中國化學	衛署藥製 057783		Y		1040915	Tygacil lyophilized powder 50mg	Wyeth Lederle Srl	Italy	
