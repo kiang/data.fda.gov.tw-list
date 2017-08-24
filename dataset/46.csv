@@ -1,12 +1,105 @@
-﻿年度,醫院,診所,藥局,西藥製造業,西藥販賣業,獸醫診療機構,畜牧診療機構,動物用藥製藥,動物用藥販賣,醫藥教育研究試驗機構,合計
-"92年數量","567","6,824","2,038","154","493","822","31","19","13","153","11,664"
-"93年數量","564","6,896","2,810","150","510","841","35","20","14","185","12,025"
-"94年數量","546","6,909","3,056","140","522","848","35","23","14","219","12,312"
-"95年數量","534","6,936","3,047","138","514","835","35","22","7","240","12,308"
-"96年數量","511","6,938","3,130","138","498","840","38","23","7","241","12,364"
-"97年數量","496","6,921","3,291","140","467","831","34","23","8","256","12,467"
-"98年數量","497","6,944","3,625","139","481","821","31","23","8","264","12,833"
-"99年數量","496","7,086","3,943","137","490","827","31","26","9","262","13,307"
-"100年數量","493","7,186","4,296","133","481","839","28","25","9","270","13,760"
-"101年數量","488","7,294","4,596","133","473","846","29","23","11","275","14,168"
-"102年數量","486","7,354","4,881","133","469","853","31","22","9","273","14,511"
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>::: 衛生福利部食品藥物管理署 食品藥物開放資料平臺 :::</title>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+
+	gin-bottom: 0px;
+}
+.a12 {
+	font-size: 12pt;
+	font-weight: bold;
+	color: #333333;
+}
+.r12 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: #990000;
+	font-weight: bold;
+}
+.b12 {
+	font-size: 12px;
+
+	color: #999999;
+}
+
+
+A.MenuItem {
+	font-size: 12px;
+	text-decoration: none;
+	color: #FF6600;
+}
+A.MenuItem:link {
+	text-decoration: none;
+	color: #FF6600;
+}
+A.MenuItem:active {
+	color:  #C54F00;
+	text-decoration: underline;
+}
+A.MenuItem:visited {
+	text-decoration: none;
+	color: #FF6600;
+}
+A.MenuItem:hover {
+	color:  #C54F00;
+	text-decoration: underline;
+	
+}
+-->
+</style></head>
+
+<body>
+
+<table width="598" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td colspan="3"><img src="/backendadmin/images/errors/error_001.gif" width="600" height="24" alt="系統異常畫面"></td>
+  </tr>
+  <tr>
+    <td width="28" rowspan="3" background="/backendadmin/images/errors/error_002.gif"><img src="/backendadmin/images/errors/error_002.gif" alt="系統異常畫面" width="28" height="254"></td>
+    <td height="26" bgcolor="E4E4E4"><div align="left"><span class="a12">食品藥物開放資料平臺:</span> <span class="r12">系統異常顯示畫面</span></div></td>
+    <td width="28" rowspan="3" background="/backendadmin/images/errors/error_003.gif"><img src="/backendadmin/images/errors/error_003.gif" alt="系統異常畫面" width="28" height="13"></td>
+  </tr>
+  <tr>
+    <td><img src="/backendadmin/images/errors/error_005.gif" alt="系統異常畫面" width="544" height="15"></td>
+  </tr>
+  <tr>
+    <td height="238" valign="top" bgcolor="E4E4E4">    	
+    	<div align="left" class="b12"><UL><span style="color:red">※???zh_TW.global.errorHandler.message.LangException???!!!<br></span></UL></div>
+        <div align="left" class="b12">發生時間&nbsp;:&nbsp;
+            2017年8月25日上午0:55
+            。</div>
+        <div align="left" class="b12">異常處理說明&nbsp;:&nbsp;</div>
+        <div align="left" class="b12">目前已經將錯誤訊息自動發mail通知技術人員， 造成您使用上的不便，敬請見諒。<br>我們會以最快的時間修正這個錯誤。<br>如有任何問題請洽 衛生福利部食品藥物管理署　電子郵件：<a HREF="mailto:opendata@fda.gov.tw">opendata@fda.gov.tw</a></div>
+        <!-- <div align="left" class="b12">目前已經將錯誤訊息自動發mail通知技術人員， 造成您使用上的不便，敬請見諒。我們會以最快的時間修正這個錯誤。</div> -->
+        <br>
+        <div align="left">
+        
+        <div align="left">
+        <a href="" class="MenuItem" title="重新登入前臺系統">重新登入前臺系統</a>
+        </div>
+        
+        </td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="/backendadmin/images/errors/error_004.gif" alt="系統異常畫面" width="600" height="25"></td>
+  </tr>
+</table>
+<div style="color:white">
+
+ </div>
+</pre>
+</body>
+</html>
