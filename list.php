@@ -84,9 +84,7 @@ foreach ($dataset AS $data) {
     $table = substr($info, $pos, strpos($info, '</table>', $pos) - $pos);
     $rows = explode('</tr>', $table);
     $rows[0] = explode('<td>', $rows[0]);
-    if (!isset($rows[0][1])) {
-        unlink($infoFile);
-    } else {
+    if (isset($rows[0][1])) {
         $data['columns'] = trim(strip_tags($rows[0][1]));
         $rows[1] = explode('<td>', $rows[1]);
         $data['frequency'] = trim(strip_tags($rows[1][1]));
