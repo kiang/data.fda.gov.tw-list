@@ -1,105 +1,12 @@
-
-
-
-
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-"http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>::: 衛生福利部食品藥物管理署 食品藥物開放資料平臺 :::</title>
-<style type="text/css">
-<!--
-body {
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-
-	gin-bottom: 0px;
-}
-.a12 {
-	font-size: 12pt;
-	font-weight: bold;
-	color: #333333;
-}
-.r12 {
-	font-family: Geneva, Arial, Helvetica, sans-serif;
-	font-size: 12pt;
-	color: #990000;
-	font-weight: bold;
-}
-.b12 {
-	font-size: 12px;
-
-	color: #999999;
-}
-
-
-A.MenuItem {
-	font-size: 12px;
-	text-decoration: none;
-	color: #FF6600;
-}
-A.MenuItem:link {
-	text-decoration: none;
-	color: #FF6600;
-}
-A.MenuItem:active {
-	color:  #C54F00;
-	text-decoration: underline;
-}
-A.MenuItem:visited {
-	text-decoration: none;
-	color: #FF6600;
-}
-A.MenuItem:hover {
-	color:  #C54F00;
-	text-decoration: underline;
-	
-}
--->
-</style></head>
-
-<body>
-
-<table width="598" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tr>
-    <td colspan="3"><img src="/backendadmin/images/errors/error_001.gif" width="600" height="24" alt="系統異常畫面"></td>
-  </tr>
-  <tr>
-    <td width="28" rowspan="3" background="/backendadmin/images/errors/error_002.gif"><img src="/backendadmin/images/errors/error_002.gif" alt="系統異常畫面" width="28" height="254"></td>
-    <td height="26" bgcolor="E4E4E4"><div align="left"><span class="a12">食品藥物開放資料平臺:</span> <span class="r12">系統異常顯示畫面</span></div></td>
-    <td width="28" rowspan="3" background="/backendadmin/images/errors/error_003.gif"><img src="/backendadmin/images/errors/error_003.gif" alt="系統異常畫面" width="28" height="13"></td>
-  </tr>
-  <tr>
-    <td><img src="/backendadmin/images/errors/error_005.gif" alt="系統異常畫面" width="544" height="15"></td>
-  </tr>
-  <tr>
-    <td height="238" valign="top" bgcolor="E4E4E4">    	
-    	<div align="left" class="b12"><UL><span style="color:red">※???zh_TW.global.errorHandler.message.LangException???!!!<br></span></UL></div>
-        <div align="left" class="b12">發生時間&nbsp;:&nbsp;
-            2017年8月25日上午0:55
-            。</div>
-        <div align="left" class="b12">異常處理說明&nbsp;:&nbsp;</div>
-        <div align="left" class="b12">目前已經將錯誤訊息自動發mail通知技術人員， 造成您使用上的不便，敬請見諒。<br>我們會以最快的時間修正這個錯誤。<br>如有任何問題請洽 衛生福利部食品藥物管理署　電子郵件：<a HREF="mailto:opendata@fda.gov.tw">opendata@fda.gov.tw</a></div>
-        <!-- <div align="left" class="b12">目前已經將錯誤訊息自動發mail通知技術人員， 造成您使用上的不便，敬請見諒。我們會以最快的時間修正這個錯誤。</div> -->
-        <br>
-        <div align="left">
-        
-        <div align="left">
-        <a href="" class="MenuItem" title="重新登入前臺系統">重新登入前臺系統</a>
-        </div>
-        
-        </td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="/backendadmin/images/errors/error_004.gif" alt="系統異常畫面" width="600" height="25"></td>
-  </tr>
-</table>
-<div style="color:white">
-
- </div>
-</pre>
-</body>
-</html>
+﻿年度,醫師,牙醫師,獸醫師,獸醫佐,合計
+"92年度數量","28,025","2,001","1,113","181","31,320"
+"93年度數量","29,489","2,192","1,216","187","33,084"
+"94年度數量","30,945","2,333","1,304","191","34,673"
+"95年度數量","32,121","2,458","1,373","195","36,147"
+"96年度數量","33,557","2,639","1,434","198","37,828"
+"97年度數量","35,006","2,791","1,509","197","39,503"
+"98年度數量","36,523","2,931","1,541","197","41,192"
+"99年度數量","37,784","3,101","1,612","200","42,697"
+"100年度數量","39,329","3,279","1,696","201","44,505"
+"101年度數量","40,346","3,345","1,789","202","45,882"
+"102年度數量","41,584","3,749","1,857","201","47,391"
